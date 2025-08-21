@@ -1,561 +1,919 @@
-modelo,nome,posto,entrada,saida,duracao,perna
-Accelo,Accelo_0,30A,330.0,583.0,253.0,1
-Accelo,Accelo_0,31A,583.0,899.0,316.0,1
-Atego,Atego_2,30A,990.0,1304.0,314.0,1
-Actros,Actros_1,30B,660.0,1412.0,752.0,2
-Accelo,Accelo_3,30A,1320.0,1573.0,253.0,1
-Atego,Atego_2,31A,1304.0,1618.0,314.0,1
-Accelo,Accelo_3,31A,1573.0,1934.0,361.0,1
-Accelo,Accelo_0,32A,899.0,1967.0,1068.0,1
-Actros,Actros_1,31B,1412.0,1967.0,555.0,2
-Atego (ATP),Atego (ATP)_4,30A,1650.0,1976.0,326.0,1
-Atego,Atego_5,30A,1980.0,2294.0,314.0,1
-Atego (ATP),Atego (ATP)_4,31A,1976.0,2306.0,330.0,1
-Atego,Atego_5,31A,2294.0,2620.0,326.0,1
-Atego quinta roda,Atego quinta roda_6,30B,2310.0,2636.0,326.0,2
-Accelo,Accelo_7,30A,2640.0,2893.0,253.0,1
-Actros,Actros_1,32B,1967.0,2932.0,965.0,2
-Atego quinta roda,Atego quinta roda_6,31B,2636.0,2966.0,330.0,2
-Atego,Atego_2,32A,1618.0,3101.0,1483.0,1
-Accelo,Accelo_7,31A,2893.0,3209.0,316.0,1
-Actros,Actros_1,32D,2932.0,3426.0,494.0,2
-Atego quinta roda,Atego quinta roda_6,32B,2966.0,3523.0,557.0,2
-Accelo,Accelo_0,32C,1967.0,3546.0,1579.0,1
-Actros,Actros_8,30B,2970.0,3722.0,752.0,2
-Atego quinta roda,Atego quinta roda_9,30B,3722.0,4048.0,326.0,2
-Accelo,Accelo_3,32A,1934.0,4169.0,2235.0,1
-Actros,Actros_8,31B,3722.0,4277.0,555.0,2
-Accelo,Accelo_10,30A,4052.0,4305.0,253.0,1
-Atego quinta roda,Atego quinta roda_9,31B,4048.0,4607.0,559.0,2
-Accelo,Accelo_10,31A,4305.0,4621.0,316.0,1
-Atego (ATP),Atego (ATP)_11,30A,4382.0,4708.0,326.0,1
-Accelo,Accelo_12,30A,4712.0,4965.0,253.0,1
-Atego (ATP),Atego (ATP)_11,31A,4708.0,5038.0,330.0,1
-Atego,Atego_2,32C,3101.0,5125.5,2024.5,1
-Accelo,Accelo_0,33A,3546.0,5129.0,1583.0,1
-Actros,Actros_8,32B,4277.0,5242.0,965.0,2
-Accelo,Accelo_12,31A,4965.0,5354.0,389.0,1
-Atego quinta roda,Atego quinta roda_13,30B,5042.0,5368.0,326.0,2
-Atego quinta roda,Atego quinta roda_6,32D,3523.0,5450.5,1927.5,2
-Atego (ATP),Atego (ATP)_4,32A,2306.0,5566.0,3260.0,1
-Atego quinta roda,Atego quinta roda_13,31B,5368.0,5698.0,330.0,2
-Atego quinta roda,Atego quinta roda_9,32B,4607.0,5799.0,1192.0,2
-Actros,Actros_8,32D,5242.0,5944.5,702.5,2
-Atego,Atego_15,30A,5702.0,6016.0,314.0,1
-Actros,Actros_14,30B,5372.0,6124.0,752.0,2
-Atego,Atego_15,31A,6016.0,6330.0,314.0,1
-Atego quinta roda,Atego quinta roda_13,32B,5698.0,6356.0,658.0,2
-Atego quinta roda,Atego quinta roda_16,30B,6124.0,6450.0,326.0,2
-Accelo,Accelo_0,34A,5129.0,6605.0,1476.0,1
-Actros,Actros_14,31B,6124.0,6679.0,555.0,2
-Atego,Atego_5,32A,2620.0,6700.0,4080.0,1
-Accelo,Accelo_3,32C,4169.0,6704.5,2535.5,1
-Accelo,Accelo_17,30A,6454.0,6707.0,253.0,1
-Atego,Atego_2,33A,5125.5,6893.0,1767.5,1
-Atego quinta roda,Atego quinta roda_16,31B,6450.0,7009.0,559.0,2
-Accelo,Accelo_17,31A,6707.0,7023.0,316.0,1
-Atego quinta roda,Atego quinta roda_18,30B,6784.0,7110.0,326.0,2
-Atego quinta roda,Atego quinta roda_18,31B,7110.0,7440.0,330.0,2
-Actros,Actros_1,33B,3426.0,7479.0,4053.0,2
-Accelo,Accelo_0,38,6605.0,7626.0,1021.0,1
-Actros,Actros_14,32B,6679.0,7644.0,965.0,2
-Accelo,Accelo_7,32A,3209.0,7768.0,4559.0,1
-Actros,Actros_19,30B,7114.0,7866.0,752.0,2
-Atego quinta roda,Atego quinta roda_9,32D,5799.0,7872.0,2073.0,2
-Atego quinta roda,Atego quinta roda_20,30B,7866.0,8192.0,326.0,2
-Atego quinta roda,Atego quinta roda_16,32B,7009.0,8201.0,1192.0,2
-Atego,Atego_2,34A,6893.0,8359.5,1466.5,1
-Actros,Actros_19,31B,7866.0,8421.0,555.0,2
-Accelo,Accelo_3,33A,6704.5,8476.0,1771.5,1
-Atego (ATP),Atego (ATP)_21,30A,8196.0,8522.0,326.0,1
-Atego quinta roda,Atego quinta roda_20,31B,8192.0,8751.0,559.0,2
-Atego quinta roda,Atego quinta roda_18,32B,7440.0,8758.0,1318.0,2
-Atego (ATP),Atego (ATP)_4,32C,5566.0,8777.0,3211.0,1
-Accelo,Accelo_10,32A,4621.0,8836.0,4215.0,1
-Atego,Atego_22,30A,8526.0,8840.0,314.0,1
-Atego (ATP),Atego (ATP)_21,31A,8522.0,8852.0,330.0,1
-Atego,Atego_22,31A,8840.0,9166.0,326.0,1
-Atego,Atego_23,30A,8856.0,9170.0,314.0,1
-Atego quinta roda,Atego quinta roda_6,33B,5450.5,9207.0,3756.5,2
-Atego,Atego_2,38,8359.5,9380.5,1021.0,1
-Atego,Atego_23,31A,9170.0,9484.0,314.0,1
-Actros,Actros_19,32B,8421.0,9723.0,1302.0,2
-Accelo,Accelo_25,30A,9516.0,9769.0,253.0,1
-Atego quinta roda,Atego quinta roda_13,32D,6356.0,9799.5,3443.5,2
-Actros,Actros_24,30B,9186.0,9938.0,752.0,2
-Accelo,Accelo_3,34A,8476.0,9952.0,1476.0,1
-Accelo,Accelo_25,31A,9769.0,10085.0,316.0,1
-Atego,Atego_26,30A,9846.0,10160.0,314.0,1
-Atego (ATP),Atego (ATP)_11,32A,5038.0,10233.0,5195.0,1
-Atego quinta roda,Atego quinta roda_20,32B,8751.0,10280.0,1529.0,2
-Actros,Actros_14,32D,7644.0,10293.5,2649.5,2
-Atego,Atego_5,32C,6700.0,10356.5,3656.5,1
-Atego (ATP),Atego (ATP)_4,33A,8777.0,10385.0,1608.0,1
-Atego,Atego_26,31A,10160.0,10474.0,314.0,1
-Actros,Actros_24,31B,9938.0,10493.0,555.0,2
-Atego quinta roda,Atego quinta roda_27,30B,10176.0,10502.0,326.0,2
-Atego,Atego_28,30A,10506.0,10820.0,314.0,1
-Atego quinta roda,Atego quinta roda_27,31B,10502.0,10832.0,330.0,2
-Accelo,Accelo_3,38,9952.0,10973.0,1021.0,1
-Atego,Atego_28,31A,10820.0,11134.0,314.0,1
-Atego (ATP),Atego (ATP)_29,30A,10836.0,11162.0,326.0,1
-Accelo,Accelo_12,32A,5354.0,11301.0,5947.0,1
-Actros,Actros_24,32B,10493.0,11458.0,965.0,2
-Atego (ATP),Atego (ATP)_29,31A,11162.0,11492.0,330.0,1
-Atego (ATP),Atego (ATP)_30,30A,11166.0,11492.0,326.0,1
-Atego (ATP),Atego (ATP)_30,31A,11492.0,11822.0,330.0,1
-Atego quinta roda,Atego quinta roda_31,30B,11496.0,11822.0,326.0,2
-Atego (ATP),Atego (ATP)_4,34A,10385.0,11859.5,1474.5,1
-Accelo,Accelo_7,32C,7768.0,11935.5,4167.5,1
-Atego quinta roda,Atego quinta roda_27,32B,10832.0,12015.0,1183.0,2
-Accelo,Accelo_32,30A,11826.0,12079.0,253.0,1
-Atego,Atego_5,33A,10356.5,12149.0,1792.5,1
-Atego quinta roda,Atego quinta roda_31,31B,11822.0,12152.0,330.0,2
-Atego quinta roda,Atego quinta roda_16,32D,8201.0,12221.0,4020.0,2
-Accelo,Accelo_32,31A,12079.0,12395.0,316.0,1
-Atego,Atego_15,32A,6330.0,12435.0,6105.0,1
-Atego quinta roda,Atego quinta roda_31,32B,12152.0,12709.0,557.0,2
-Atego,Atego_34,30A,12486.0,12800.0,314.0,1
-Atego (ATP),Atego (ATP)_4,38,11859.5,12880.5,1021.0,1
-Actros,Actros_33,30B,12156.0,12908.0,752.0,2
-Atego,Atego_34,31A,12800.0,13114.0,314.0,1
-Atego quinta roda,Atego quinta roda_35,30B,12908.0,13234.0,326.0,2
-Actros,Actros_8,33B,5944.5,13260.0,7315.5,2
-Actros,Actros_33,31B,12908.0,13463.0,555.0,2
-Accelo,Accelo_17,32A,7023.0,13503.0,6480.0,1
-Accelo,Accelo_10,32C,8836.0,13514.5,4678.5,1
-Atego,Atego_5,34A,12149.0,13615.5,1466.5,1
-Accelo,Accelo_7,33A,11935.5,13732.0,1796.5,1
-Atego quinta roda,Atego quinta roda_35,31B,13234.0,13793.0,559.0,2
-Accelo,Accelo_37,30A,13568.0,13821.0,253.0,1
-Actros,Actros_1,34B,7479.0,13980.0,6501.0,2
-Actros,Actros_36,30B,13238.0,13990.0,752.0,2
-Accelo,Accelo_37,31A,13821.0,14137.0,316.0,1
-Atego quinta roda,Atego quinta roda_18,32D,8758.0,14148.5,5390.5,2
-Atego quinta roda,Atego quinta roda_38,30B,13990.0,14316.0,326.0,2
-Actros,Actros_33,32B,13463.0,14428.0,965.0,2
-Actros,Actros_36,31B,13990.0,14545.0,555.0,2
-Atego,Atego_5,38,13615.5,14636.5,1021.0,1
-Actros,Actros_19,32D,9723.0,14642.5,4919.5,2
-Atego (ATP),Atego (ATP)_39,30A,14320.0,14646.0,326.0,1
-Atego quinta roda,Atego quinta roda_38,31B,14316.0,14875.0,559.0,2
-Atego (ATP),Atego (ATP)_21,32A,8852.0,14900.0,6048.0,1
-Accelo,Accelo_40,30A,14650.0,14903.0,253.0,1
-Atego (ATP),Atego (ATP)_39,31A,14646.0,14976.0,330.0,1
-Atego quinta roda,Atego quinta roda_35,32B,13793.0,14985.0,1192.0,2
-Atego quinta roda,Atego quinta roda_9,33B,7872.0,14988.0,7116.0,2
-Accelo,Accelo_7,34A,13732.0,15208.0,1476.0,1
-Accelo,Accelo_41,30A,14980.0,15233.0,253.0,1
-Accelo,Accelo_40,31A,14903.0,15292.0,389.0,1
-Accelo,Accelo_10,33A,13514.5,15315.0,1800.5,1
-Atego (ATP),Atego (ATP)_11,32C,10233.0,15587.0,5354.0,1
-Accelo,Accelo_41,31A,15233.0,15608.0,375.0,1
-Atego quinta roda,Atego quinta roda_42,30B,15310.0,15636.0,326.0,2
-Actros,Actros_36,32B,14545.0,15950.0,1405.0,2
-Atego quinta roda,Atego quinta roda_42,31B,15636.0,15966.0,330.0,2
-Atego,Atego_22,32A,9166.0,16034.0,6868.0,1
-Accelo,Accelo_7,38,15208.0,16229.0,1021.0,1
-Atego,Atego_44,30A,15970.0,16284.0,314.0,1
-Actros,Actros_43,30B,15640.0,16392.0,752.0,2
-Atego quinta roda,Atego quinta roda_38,32B,14875.0,16507.0,1632.0,2
-Accelo,Accelo_45,30A,16300.0,16553.0,253.0,1
-Atego quinta roda,Atego quinta roda_20,32D,10280.0,16570.0,6290.0,2
-Atego,Atego_44,31A,16284.0,16598.0,314.0,1
-Atego quinta roda,Atego quinta roda_13,33B,9799.5,16716.0,6916.5,2
-Accelo,Accelo_10,34A,15315.0,16791.0,1476.0,1
-Actros,Actros_1,39,13980.0,16812.0,2832.0,2
-Accelo,Accelo_45,31A,16553.0,16914.0,361.0,1
-Atego quinta roda,Atego quinta roda_6,34B,9207.0,16919.333333333332,7712.333333333332,2
-Actros,Actros_43,31B,16392.0,16947.0,555.0,2
-Atego (ATP),Atego (ATP)_46,30A,16630.0,16956.0,326.0,1
-Atego quinta roda,Atego quinta roda_42,32B,15966.0,17064.0,1098.0,2
-Actros,Actros_24,32D,11458.0,17064.0,5606.0,2
-Accelo,Accelo_12,32C,11301.0,17166.0,5865.0,1
-Atego,Atego_23,32A,9484.0,17168.0,7684.0,1
-Atego (ATP),Atego (ATP)_11,33A,15587.0,17195.0,1608.0,1
-Atego (ATP),Atego (ATP)_46,31A,16956.0,17286.0,330.0,1
-Atego quinta roda,Atego quinta roda_47,30B,16960.0,17286.0,326.0,2
-Atego quinta roda,Atego quinta roda_47,31B,17286.0,17616.0,330.0,2
-Accelo,Accelo_10,38,16791.0,17812.0,1021.0,1
-Accelo,Accelo_49,30A,17620.0,17873.0,253.0,1
-Actros,Actros_43,32B,16947.0,18029.0,1082.0,2
-Actros,Actros_48,30B,17290.0,18042.0,752.0,2
-Accelo,Accelo_49,31A,17873.0,18189.0,316.0,1
-Accelo,Accelo_25,32A,10085.0,18236.0,8151.0,1
-Atego,Atego_50,30A,17950.0,18264.0,314.0,1
-Atego,Atego_50,31A,18264.0,18578.0,314.0,1
-Atego quinta roda,Atego quinta roda_47,32B,17616.0,18586.0,970.0,2
-Actros,Actros_48,31B,18042.0,18597.0,555.0,2
-Atego (ATP),Atego (ATP)_51,30A,18280.0,18606.0,326.0,1
-Atego (ATP),Atego (ATP)_11,34A,17195.0,18669.5,1474.5,1
-Atego,Atego_15,32C,12435.0,18745.5,6310.5,1
-Accelo,Accelo_12,33A,17166.0,18778.0,1612.0,1
-Atego (ATP),Atego (ATP)_51,31A,18606.0,18936.0,330.0,1
-Atego (ATP),Atego (ATP)_52,30A,18610.0,18936.0,326.0,1
-Atego quinta roda,Atego quinta roda_27,32D,12015.0,18991.5,6976.5,2
-Atego,Atego_53,30A,18940.0,19254.0,314.0,1
-Atego (ATP),Atego (ATP)_52,31A,18936.0,19266.0,330.0,1
-Atego,Atego_26,32A,10474.0,19370.0,8896.0,1
-Atego quinta roda,Atego quinta roda_6,39,16919.333333333332,19468.666666666664,2549.333333333332,2
-Actros,Actros_48,32B,18597.0,19562.0,965.0,2
-Atego,Atego_53,31A,19254.0,19580.0,326.0,1
-Atego (ATP),Atego (ATP)_11,38,18669.5,19690.5,1021.0,1
-Axor (ATP +),Axor (ATP +)_54,30B,19270.0,20022.0,752.0,2
-Accelo,Accelo_12,34A,18778.0,20254.0,1476.0,1
-Accelo,Accelo_17,32C,13503.0,20324.5,6821.5,1
-Atego quinta roda,Atego quinta roda_55,30B,20022.0,20348.0,326.0,2
-Atego,Atego_28,32A,11134.0,20504.0,9370.0,1
-Atego,Atego_15,33A,18745.5,20542.0,1796.5,1
-Axor (ATP +),Axor (ATP +)_54,31B,20022.0,20577.0,555.0,2
-Accelo,Accelo_56,30A,20352.0,20605.0,253.0,1
-Actros,Actros_14,33B,10293.5,20769.0,10475.5,2
-Atego quinta roda,Atego quinta roda_55,31B,20348.0,20907.0,559.0,2
-Atego quinta roda,Atego quinta roda_31,32D,12709.0,20919.0,8210.0,2
-Accelo,Accelo_56,31A,20605.0,20921.0,316.0,1
-Accelo,Accelo_58,30A,21012.0,21265.0,253.0,1
-Accelo,Accelo_12,38,20254.0,21275.0,1021.0,1
-Actros,Actros_33,32D,14428.0,21413.0,6985.0,2
-Actros,Actros_57,30B,20682.0,21434.0,752.0,2
-Axor (ATP +),Axor (ATP +)_54,32B,20577.0,21542.0,965.0,2
-Accelo,Accelo_58,31A,21265.0,21581.0,316.0,1
-Atego,Atego_59,30A,21342.0,21656.0,314.0,1
-Atego (ATP),Atego (ATP)_29,32A,11492.0,21901.0,10409.0,1
-Atego,Atego_59,31A,21656.0,21970.0,314.0,1
-Actros,Actros_57,31B,21434.0,21989.0,555.0,2
-Atego (ATP),Atego (ATP)_60,30A,21672.0,21998.0,326.0,1
-Atego,Atego_15,34A,20542.0,22008.5,1466.5,1
-Atego quinta roda,Atego quinta roda_55,32B,20907.0,22099.0,1192.0,2
-Accelo,Accelo_17,33A,20324.5,22125.0,1800.5,1
-Atego,Atego_61,30A,22002.0,22316.0,314.0,1
-Atego (ATP),Atego (ATP)_60,31A,21998.0,22328.0,330.0,1
-Atego (ATP),Atego (ATP)_21,32C,14900.0,22397.0,7497.0,1
-Atego quinta roda,Atego quinta roda_16,33B,12221.0,22497.0,10276.0,2
-Accelo,Accelo_62,30A,22332.0,22585.0,253.0,1
-Atego,Atego_61,31A,22316.0,22642.0,326.0,1
-Accelo,Accelo_62,31A,22585.0,22958.0,373.0,1
-Atego,Atego_15,38,22008.5,23029.5,1021.0,1
-Actros,Actros_57,32B,21989.0,23064.0,1075.0,2
-Atego (ATP),Atego (ATP)_30,32A,11822.0,23298.0,11476.0,1
-Atego,Atego_64,30A,22992.0,23306.0,314.0,1
-Atego quinta roda,Atego quinta roda_35,32D,14985.0,23340.5,8355.5,2
-Actros,Actros_63,30B,22662.0,23414.0,752.0,2
-Actros,Actros_8,34B,13260.0,23420.333333333332,10160.333333333332,2
-Accelo,Accelo_65,30A,23322.0,23575.0,253.0,1
-Accelo,Accelo_17,34A,22125.0,23601.0,1476.0,1
-Atego,Atego_64,31A,23306.0,23620.0,314.0,1
-Actros,Actros_36,32D,15950.0,23834.5,7884.5,2
-Accelo,Accelo_65,31A,23575.0,23936.0,361.0,1
-Actros,Actros_63,31B,23414.0,23969.0,555.0,2
-Atego,Atego_22,32C,16034.0,23976.5,7942.5,1
-Atego (ATP),Atego (ATP)_66,30A,23652.0,23978.0,326.0,1
-Atego (ATP),Atego (ATP)_21,33A,22397.0,24005.0,1608.0,1
-Atego quinta roda,Atego quinta roda_18,33B,14148.5,24225.0,10076.5,2
-Atego,Atego_67,30A,23982.0,24296.0,314.0,1
-Atego (ATP),Atego (ATP)_66,31A,23978.0,24308.0,330.0,1
-Accelo,Accelo_32,32A,12395.0,24366.0,11971.0,1
-Accelo,Accelo_68,30A,24312.0,24565.0,253.0,1
-Accelo,Accelo_17,38,23601.0,24622.0,1021.0,1
-Atego,Atego_67,31A,24296.0,24622.0,326.0,1
-Actros,Actros_63,32B,23969.0,24934.0,965.0,2
-Accelo,Accelo_68,31A,24565.0,24938.0,373.0,1
-Atego,Atego_70,30A,24972.0,25286.0,314.0,1
-Actros,Actros_69,30B,24642.0,25394.0,752.0,2
-Atego (ATP),Atego (ATP)_21,34A,24005.0,25479.5,1474.5,1
-Atego,Atego_34,32A,13114.0,25500.0,12386.0,1
-Accelo,Accelo_71,30A,25302.0,25555.0,253.0,1
-Atego,Atego_23,32C,17168.0,25556.0,8388.0,1
-Atego,Atego_70,31A,25286.0,25600.0,314.0,1
-Atego quinta roda,Atego quinta roda_38,32D,16507.0,25762.0,9255.0,2
-Atego,Atego_22,33A,23976.5,25769.0,1792.5,1
-Accelo,Accelo_71,31A,25555.0,25916.0,361.0,1
-Actros,Actros_69,31B,25394.0,25949.0,555.0,2
-Atego (ATP),Atego (ATP)_72,30A,25632.0,25958.0,326.0,1
-Actros,Actros_8,39,23420.333333333332,26252.333333333332,2832.0,2
-Atego (ATP),Atego (ATP)_72,31A,25958.0,26288.0,330.0,1
-Atego quinta roda,Atego quinta roda_73,30B,25962.0,26288.0,326.0,2
-Atego quinta roda,Atego quinta roda_9,34B,14988.0,26359.666666666664,11371.666666666664,2
-Atego (ATP),Atego (ATP)_21,38,25479.5,26500.5,1021.0,1
-Accelo,Accelo_37,32A,14137.0,26568.0,12431.0,1
-Atego quinta roda,Atego quinta roda_73,31B,26288.0,26618.0,330.0,2
-Atego quinta roda,Atego quinta roda_74,30B,26292.0,26618.0,326.0,2
-Actros,Actros_69,32B,25949.0,26914.0,965.0,2
-Atego quinta roda,Atego quinta roda_74,31B,26618.0,26948.0,330.0,2
-Accelo,Accelo_25,32C,18236.0,27135.0,8899.0,1
-Atego,Atego_22,34A,25769.0,27235.5,1466.5,1
-Atego,Atego_76,30A,26952.0,27266.0,314.0,1
-Actros,Actros_75,30B,26622.0,27374.0,752.0,2
-Atego quinta roda,Atego quinta roda_73,32B,26618.0,27471.0,853.0,2
-Atego,Atego_23,33A,25556.0,27533.0,1977.0,1
-Atego,Atego_76,31A,27266.0,27580.0,314.0,1
-Atego quinta roda,Atego quinta roda_42,32D,17064.0,27689.5,10625.5,2
-Atego quinta roda,Atego quinta roda_77,30B,27374.0,27700.0,326.0,2
-Actros,Actros_75,31B,27374.0,27929.0,555.0,2
-Atego (ATP),Atego (ATP)_39,32A,14976.0,27965.0,12989.0,1
-Atego quinta roda,Atego quinta roda_74,32B,26948.0,28028.0,1080.0,2
-Actros,Actros_43,32D,18029.0,28183.5,10154.5,2
-Atego,Atego_22,38,27235.5,28256.5,1021.0,1
-Atego quinta roda,Atego quinta roda_77,31B,27700.0,28259.0,559.0,2
-Actros,Actros_19,33B,14642.5,28278.0,13635.5,2
-Accelo,Accelo_79,30A,28034.0,28287.0,253.0,1
-Actros,Actros_78,30B,27704.0,28456.0,752.0,2
-Accelo,Accelo_79,31A,28287.0,28603.0,316.0,1
-Atego (ATP),Atego (ATP)_80,30A,28364.0,28690.0,326.0,1
-Atego,Atego_26,32C,19370.0,28714.5,9344.5,1
-Atego quinta roda,Atego quinta roda_9,39,26359.666666666664,28908.999999999996,2549.333333333332,2
-Accelo,Accelo_81,30A,28694.0,28947.0,253.0,1
-Actros,Actros_75,32B,27929.0,28993.0,1064.0,2
-Atego,Atego_23,34A,27533.0,28999.5,1466.5,1
-Actros,Actros_78,31B,28456.0,29011.0,555.0,2
-Atego (ATP),Atego (ATP)_80,31A,28690.0,29020.0,330.0,1
-Accelo,Accelo_40,32A,15292.0,29033.0,13741.0,1
-Accelo,Accelo_25,33A,27135.0,29116.0,1981.0,1
-Atego quinta roda,Atego quinta roda_13,34B,16716.0,29298.999999999996,12582.999999999996,2
-Accelo,Accelo_81,31A,28947.0,29336.0,389.0,1
-Atego quinta roda,Atego quinta roda_77,32B,28259.0,29550.0,1291.0,2
-Accelo,Accelo_83,30A,29354.0,29607.0,253.0,1
-Actros,Actros_82,30B,29024.0,29776.0,752.0,2
-Accelo,Accelo_83,31A,29607.0,29923.0,316.0,1
-Atego,Atego_84,30A,29684.0,29998.0,314.0,1
-Atego quinta roda,Atego quinta roda_20,33B,16570.0,30006.0,13436.0,2
-Atego,Atego_23,38,28999.5,30020.5,1021.0,1
-Accelo,Accelo_41,32A,15608.0,30101.0,14493.0,1
-Atego quinta roda,Atego quinta roda_47,32D,18586.0,30111.0,11525.0,2
-Atego,Atego_28,32C,20504.0,30294.0,9790.0,1
-Atego,Atego_84,31A,29998.0,30312.0,314.0,1
-Actros,Actros_82,31B,29776.0,30331.0,555.0,2
-Atego (ATP),Atego (ATP)_85,30A,30014.0,30340.0,326.0,1
-Actros,Actros_78,32B,29011.0,30515.0,1504.0,2
-Accelo,Accelo_25,34A,29116.0,30592.0,1476.0,1
-Accelo,Accelo_86,30A,30344.0,30597.0,253.0,1
-Actros,Actros_48,32D,19562.0,30605.0,11043.0,2
-Atego (ATP),Atego (ATP)_85,31A,30340.0,30670.0,330.0,1
-Atego,Atego_26,33A,28714.5,30880.0,2165.5,1
-Accelo,Accelo_87,30A,30674.0,30927.0,253.0,1
-Accelo,Accelo_86,31A,30597.0,30986.0,389.0,1
-Axor (ATP +),Axor (ATP +)_54,32D,21542.0,31099.0,9557.0,2
-Atego,Atego_44,32A,16598.0,31235.0,14637.0,1
-Accelo,Accelo_87,31A,30927.0,31302.0,375.0,1
-Atego quinta roda,Atego quinta roda_88,30B,31004.0,31330.0,326.0,2
-Actros,Actros_82,32B,30331.0,31480.0,1149.0,2
-Accelo,Accelo_25,38,30592.0,31613.0,1021.0,1
-Atego quinta roda,Atego quinta roda_88,31B,31330.0,31660.0,330.0,2
-Atego quinta roda,Atego quinta roda_13,39,29298.999999999996,31848.33333333333,2549.333333333332,2
-Accelo,Accelo_90,30A,31664.0,31917.0,253.0,1
-Actros,Actros_89,30B,31334.0,32086.0,752.0,2
-Atego quinta roda,Atego quinta roda_88,32B,31660.0,32217.0,557.0,2
-Accelo,Accelo_90,31A,31917.0,32233.0,316.0,1
-Accelo,Accelo_45,32A,16914.0,32303.0,15389.0,1
-Atego,Atego_91,30A,31994.0,32308.0,314.0,1
-Atego,Atego_26,34A,30880.0,32346.5,1466.5,1
-Atego (ATP),Atego (ATP)_29,32C,21901.0,32366.5,10465.5,1
-Atego,Atego_91,31A,32308.0,32622.0,314.0,1
-Actros,Actros_89,31B,32086.0,32641.0,555.0,2
-Atego,Atego_28,33A,30294.0,32644.0,2350.0,1
-Atego (ATP),Atego (ATP)_92,30A,32324.0,32650.0,326.0,1
-Atego,Atego_93,30A,32654.0,32968.0,314.0,1
-Atego (ATP),Atego (ATP)_92,31A,32650.0,32980.0,330.0,1
-Atego quinta roda,Atego quinta roda_55,32D,22099.0,33026.5,10927.5,2
-Atego,Atego_93,31A,32968.0,33294.0,326.0,1
-Atego quinta roda,Atego quinta roda_94,30B,32984.0,33310.0,326.0,2
-Atego,Atego_26,38,32346.5,33367.5,1021.0,1
-Actros,Actros_57,32D,23064.0,33520.5,10456.5,2
-Actros,Actros_89,32B,32641.0,33606.0,965.0,2
-Atego quinta roda,Atego quinta roda_94,31B,33310.0,33640.0,330.0,2
-Atego (ATP),Atego (ATP)_46,32A,17286.0,33700.0,16414.0,1
-Actros,Actros_63,32D,24934.0,34014.5,9080.5,2
-Actros,Actros_24,33B,17064.0,34059.0,16995.0,2
-Actros,Actros_95,30B,33314.0,34066.0,752.0,2
-Atego,Atego_28,34A,32644.0,34110.5,1466.5,1
-Atego quinta roda,Atego quinta roda_94,32B,33640.0,34197.0,557.0,2
-Atego (ATP),Atego (ATP)_29,33A,32366.5,34252.0,1885.5,1
-Atego quinta roda,Atego quinta roda_96,30B,34066.0,34392.0,326.0,2
-Atego (ATP),Atego (ATP)_30,32C,23298.0,34439.0,11141.0,1
-Actros,Actros_69,32D,26914.0,34508.5,7594.5,2
-Actros,Actros_95,31B,34066.0,34621.0,555.0,2
-Atego quinta roda,Atego quinta roda_97,30B,34396.0,34722.0,326.0,2
-Accelo,Accelo_49,32A,18189.0,34768.0,16579.0,1
-Atego quinta roda,Atego quinta roda_96,31B,34392.0,34951.0,559.0,2
-Atego,Atego_28,38,34110.5,35131.5,1021.0,1
-Atego quinta roda,Atego quinta roda_97,31B,34722.0,35281.0,559.0,2
-Atego (ATP),Atego (ATP)_99,30A,35056.0,35382.0,326.0,1
-Arocs,Arocs_98,30B,34726.0,35478.0,752.0,2
-Actros,Actros_95,32B,34621.0,35586.0,965.0,2
-Accelo,Accelo_100,30A,35386.0,35639.0,253.0,1
-Atego (ATP),Atego (ATP)_99,31A,35382.0,35712.0,330.0,1
-Atego (ATP),Atego (ATP)_29,34A,34252.0,35726.5,1474.5,1
-Atego quinta roda,Atego quinta roda_27,33B,18991.5,35787.0,16795.5,2
-Actros,Actros_14,34B,20769.0,35800.0,15031.0,2
-Atego,Atego_50,32A,18578.0,35902.0,17324.0,1
-Accelo,Accelo_32,32C,24366.0,36018.0,11652.0,1
-Accelo,Accelo_100,31A,35639.0,36028.0,389.0,1
-Arocs,Arocs_98,31B,35478.0,36033.0,555.0,2
-Atego quinta roda,Atego quinta roda_101,30B,35716.0,36042.0,326.0,2
-Atego (ATP),Atego (ATP)_30,33A,34439.0,36047.0,1608.0,1
-Atego quinta roda,Atego quinta roda_96,32B,34951.0,36143.0,1192.0,2
-Atego quinta roda,Atego quinta roda_101,31B,36042.0,36372.0,330.0,2
-Atego quinta roda,Atego quinta roda_73,32D,27471.0,36436.0,8965.0,2
-Accelo,Accelo_103,30A,36376.0,36629.0,253.0,1
-Atego quinta roda,Atego quinta roda_97,32B,35281.0,36700.0,1419.0,2
-Atego (ATP),Atego (ATP)_29,38,35726.5,36747.5,1021.0,1
-Actros,Actros_102,30B,36046.0,36798.0,752.0,2
-Accelo,Accelo_103,31A,36629.0,36945.0,316.0,1
-Atego quinta roda,Atego quinta roda_104,30B,36798.0,37124.0,326.0,2
-Atego (ATP),Atego (ATP)_51,32A,18936.0,37299.0,18363.0,1
-Actros,Actros_102,31B,36798.0,37353.0,555.0,2
-Atego quinta roda,Atego quinta roda_31,33B,20919.0,37515.0,16596.0,2
-Atego (ATP),Atego (ATP)_30,34A,36047.0,37521.5,1474.5,1
-Atego,Atego_34,32C,25500.0,37597.5,12097.5,1
-Accelo,Accelo_32,33A,36018.0,37630.0,1612.0,1
-Arocs,Arocs_98,32B,36033.0,37665.0,1632.0,2
-Atego quinta roda,Atego quinta roda_104,31B,37124.0,37683.0,559.0,2
-Accelo,Accelo_106,30A,37458.0,37711.0,253.0,1
-Actros,Actros_105,30B,37128.0,37880.0,752.0,2
-Accelo,Accelo_106,31A,37711.0,38027.0,316.0,1
-Atego,Atego_107,30A,37788.0,38102.0,314.0,1
-Atego quinta roda,Atego quinta roda_101,32B,36372.0,38222.0,1850.0,2
-Atego quinta roda,Atego quinta roda_74,32D,28028.0,38363.5,10335.5,2
-Atego,Atego_107,31A,38102.0,38416.0,314.0,1
-Actros,Actros_105,31B,37880.0,38435.0,555.0,2
-Atego (ATP),Atego (ATP)_108,30A,38118.0,38444.0,326.0,1
-Atego (ATP),Atego (ATP)_30,38,37521.5,38542.5,1021.0,1
-Actros,Actros_14,39,35800.0,38632.0,2832.0,2
-Atego (ATP),Atego (ATP)_52,32A,19266.0,38696.0,19430.0,1
-Accelo,Accelo_109,30A,38448.0,38701.0,253.0,1
-Atego quinta roda,Atego quinta roda_16,34B,22497.0,38739.333333333336,16242.333333333336,2
-Atego (ATP),Atego (ATP)_108,31A,38444.0,38774.0,330.0,1
-Actros,Actros_75,32D,28993.0,38857.5,9864.5,2
-Accelo,Accelo_109,31A,38701.0,39090.0,389.0,1
-Atego quinta roda,Atego quinta roda_110,30B,38778.0,39104.0,326.0,2
-Accelo,Accelo_32,34A,37630.0,39106.0,1476.0,1
-Accelo,Accelo_37,32C,26568.0,39176.5,12608.5,1
-Actros,Actros_102,32B,37353.0,39187.0,1834.0,2
-Atego,Atego_34,33A,37597.5,39394.0,1796.5,1
-Atego quinta roda,Atego quinta roda_110,31B,39104.0,39434.0,330.0,2
-Atego quinta roda,Atego quinta roda_104,32B,37683.0,39744.0,2061.0,2
-Atego,Atego_112,30A,39438.0,39752.0,314.0,1
-Atego,Atego_53,32A,19580.0,39830.0,20250.0,1
-Actros,Actros_111,30B,39108.0,39860.0,752.0,2
-Atego,Atego_112,31A,39752.0,40066.0,314.0,1
-Accelo,Accelo_32,38,39106.0,40127.0,1021.0,1
-Atego quinta roda,Atego quinta roda_113,30B,39860.0,40186.0,326.0,2
-Actros,Actros_111,31B,39860.0,40415.0,555.0,2
-Atego (ATP),Atego (ATP)_114,30A,40190.0,40516.0,326.0,1
-Actros,Actros_105,32B,38435.0,40709.0,2274.0,2
-Atego quinta roda,Atego quinta roda_113,31B,40186.0,40745.0,559.0,2
-Accelo,Accelo_115,30A,40520.0,40773.0,253.0,1
-Atego quinta roda,Atego quinta roda_77,32D,29550.0,40785.0,11235.0,2
-Atego (ATP),Atego (ATP)_114,31A,40516.0,40846.0,330.0,1
-Atego,Atego_34,34A,39394.0,40860.5,1466.5,1
-Accelo,Accelo_56,32A,20921.0,40898.0,19977.0,1
-Accelo,Accelo_37,33A,39176.5,40977.0,1800.5,1
-Accelo,Accelo_115,31A,40773.0,41162.0,389.0,1
-Atego,Atego_116,30A,40850.0,41164.0,314.0,1
-Atego (ATP),Atego (ATP)_39,32C,27965.0,41249.0,13284.0,1
-Atego quinta roda,Atego quinta roda_110,32B,39434.0,41266.0,1832.0,2
-Actros,Actros_78,32D,30515.0,41279.0,10764.0,2
-Atego quinta roda,Atego quinta roda_16,39,38739.333333333336,41288.66666666667,2549.3333333333358,2
-Atego,Atego_116,31A,41164.0,41478.0,314.0,1
-Actros,Actros_33,33B,21413.0,41568.0,20155.0,2
-Atego quinta roda,Atego quinta roda_18,34B,24225.0,41678.66666666667,17453.66666666667,2
-Actros,Actros_82,32D,31480.0,41773.0,10293.0,2
-Atego,Atego_34,38,40860.5,41881.5,1021.0,1
-Actros,Actros_117,30B,41180.0,41932.0,752.0,2
-Accelo,Accelo_58,32A,21581.0,41966.0,20385.0,1
-Actros,Actros_111,32B,40415.0,42231.0,1816.0,2
-Atego quinta roda,Atego quinta roda_118,30B,41932.0,42258.0,326.0,2
-Accelo,Accelo_37,34A,40977.0,42453.0,1476.0,1
-Actros,Actros_117,31B,41932.0,42487.0,555.0,2
-Accelo,Accelo_119,30A,42262.0,42515.0,253.0,1
-Atego quinta roda,Atego quinta roda_113,32B,40745.0,42788.0,2043.0,2
-Atego quinta roda,Atego quinta roda_118,31B,42258.0,42817.0,559.0,2
-Accelo,Accelo_40,32C,29033.0,42828.0,13795.0,1
-Accelo,Accelo_119,31A,42515.0,42831.0,316.0,1
-Atego (ATP),Atego (ATP)_39,33A,41249.0,42857.0,1608.0,1
-Atego (ATP),Atego (ATP)_120,30A,42592.0,42918.0,326.0,1
-Atego,Atego_59,32A,21970.0,43100.0,21130.0,1
-Atego (ATP),Atego (ATP)_120,31A,42918.0,43248.0,330.0,1
-Atego quinta roda,Atego quinta roda_121,30B,42922.0,43248.0,326.0,2
-Atego quinta roda,Atego quinta roda_35,33B,23340.5,43296.0,19955.5,2
-Accelo,Accelo_37,38,42453.0,43474.0,1021.0,1
-Atego,Atego_122,30A,43252.0,43566.0,314.0,1
-Atego quinta roda,Atego quinta roda_121,31B,43248.0,43578.0,330.0,2
-Atego quinta roda,Atego quinta roda_88,32D,32217.0,43700.5,11483.5,2
-Actros,Actros_117,32B,42487.0,43753.0,1266.0,2
-Atego,Atego_122,31A,43566.0,43880.0,314.0,1
-Accelo,Accelo_124,30A,43912.0,44165.0,253.0,1
-Actros,Actros_89,32D,33606.0,44194.5,10588.5,2
-Atego quinta roda,Atego quinta roda_18,39,41678.66666666667,44228.00000000001,2549.3333333333358,2
-Atego quinta roda,Atego quinta roda_118,32B,42817.0,44310.0,1493.0,2
-Atego (ATP),Atego (ATP)_39,34A,42857.0,44331.5,1474.5,1
-Actros,Actros_123,30B,43582.0,44334.0,752.0,2
-Accelo,Accelo_41,32C,30101.0,44407.0,14306.0,1
-Accelo,Accelo_40,33A,42828.0,44440.0,1612.0,1
-Accelo,Accelo_124,31A,44165.0,44481.0,316.0,1
-Accelo,Accelo_125,30A,44242.0,44495.0,253.0,1
-Atego (ATP),Atego (ATP)_60,32A,22328.0,44497.0,22169.0,1
-Accelo,Accelo_125,31A,44495.0,44811.0,316.0,1
-Atego quinta roda,Atego quinta roda_121,32B,43578.0,44867.0,1289.0,2
-Actros,Actros_123,31B,44334.0,44889.0,555.0,2
-Atego,Atego_127,30A,44902.0,45216.0,314.0,1
-Actros,Actros_126,30B,44572.0,45324.0,752.0,2
-Atego (ATP),Atego (ATP)_39,38,44331.5,45352.5,1021.0,1
-Atego,Atego_127,31A,45216.0,45530.0,314.0,1
-Atego,Atego_61,32A,22642.0,45631.0,22989.0,1
-Atego quinta roda,Atego quinta roda_128,30B,45324.0,45650.0,326.0,2
-Actros,Actros_123,32B,44889.0,45854.0,965.0,2
-Actros,Actros_126,31B,45324.0,45879.0,555.0,2
-Accelo,Accelo_40,34A,44440.0,45916.0,1476.0,1
-Atego (ATP),Atego (ATP)_129,30A,45654.0,45980.0,326.0,1
-Atego,Atego_44,32C,31235.0,45986.5,14751.5,1
-Accelo,Accelo_41,33A,44407.0,46023.0,1616.0,1
-Atego quinta roda,Atego quinta roda_94,32D,34197.0,46122.0,11925.0,2
-Atego quinta roda,Atego quinta roda_128,31B,45650.0,46209.0,559.0,2
-Atego (ATP),Atego (ATP)_129,31A,45980.0,46310.0,330.0,1
-Atego quinta roda,Atego quinta roda_130,30B,45984.0,46310.0,326.0,2
-Accelo,Accelo_131,30A,46314.0,46567.0,253.0,1
-Actros,Actros_95,32D,35586.0,46616.0,11030.0,2
-Atego quinta roda,Atego quinta roda_130,31B,46310.0,46640.0,330.0,2
-Accelo,Accelo_62,32A,22958.0,46699.0,23741.0,1
-Actros,Actros_126,32B,45879.0,46844.0,965.0,2
-Accelo,Accelo_131,31A,46567.0,46883.0,316.0,1
-Accelo,Accelo_40,38,45916.0,46937.0,1021.0,1
-Atego,Atego_133,30A,46974.0,47288.0,314.0,1
-Actros,Actros_36,33B,23834.5,47349.0,23514.5,2
-Actros,Actros_132,30B,46644.0,47396.0,752.0,2
-Atego quinta roda,Atego quinta roda_128,32B,46209.0,47401.0,1192.0,2
-Accelo,Accelo_41,34A,46023.0,47499.0,1476.0,1
-Accelo,Accelo_45,32C,32303.0,47565.5,15262.5,1
-Atego,Atego_133,31A,47288.0,47602.0,314.0,1
-Atego quinta roda,Atego quinta roda_134,30B,47396.0,47722.0,326.0,2
-Atego,Atego_44,33A,45986.5,47787.0,1800.5,1
-Atego,Atego_64,32A,23620.0,47833.0,24213.0,1
-Actros,Actros_132,31B,47396.0,47951.0,555.0,2
-Atego quinta roda,Atego quinta roda_130,32B,46640.0,47958.0,1318.0,2
-Atego (ATP),Atego (ATP)_135,30A,47726.0,48052.0,326.0,1
-Actros,Actros_19,34B,28278.0,48179.66666666667,19901.66666666667,2
-Atego quinta roda,Atego quinta roda_134,31B,47722.0,48281.0,559.0,2
-Accelo,Accelo_136,30A,48056.0,48309.0,253.0,1
-Atego (ATP),Atego (ATP)_135,31A,48052.0,48382.0,330.0,1
-Accelo,Accelo_41,38,47499.0,48520.0,1021.0,1
-Atego quinta roda,Atego quinta roda_96,32D,36143.0,48543.5,12400.5,2
-Accelo,Accelo_137,30A,48386.0,48639.0,253.0,1
-Accelo,Accelo_136,31A,48309.0,48698.0,389.0,1
-Accelo,Accelo_65,32A,23936.0,48901.0,24965.0,1
-Actros,Actros_132,32B,47951.0,48923.0,972.0,2
-Accelo,Accelo_137,31A,48639.0,49014.0,375.0,1
-Atego quinta roda,Atego quinta roda_38,33B,25762.0,49077.0,23315.0,2
-Atego,Atego_44,34A,47787.0,49253.5,1466.5,1
-Accelo,Accelo_139,30A,49046.0,49299.0,253.0,1
-Accelo,Accelo_45,33A,47565.5,49370.0,1804.5,1
-Actros,Actros_138,30B,48716.0,49468.0,752.0,2
-Atego quinta roda,Atego quinta roda_134,32B,48281.0,49480.0,1199.0,2
-Accelo,Accelo_139,31A,49299.0,49615.0,316.0,1
-Atego (ATP),Atego (ATP)_46,32C,33700.0,49638.0,15938.0,1
-Atego (ATP),Atego (ATP)_140,30A,49376.0,49702.0,326.0,1
-Atego,Atego_141,30A,49706.0,50020.0,314.0,1
-Actros,Actros_138,31B,49468.0,50023.0,555.0,2
-Atego (ATP),Atego (ATP)_140,31A,49702.0,50032.0,330.0,1
-Atego,Atego_44,38,49253.5,50274.5,1021.0,1
-Accelo,Accelo_142,30A,50036.0,50289.0,253.0,1
-Atego (ATP),Atego (ATP)_66,32A,24308.0,50298.0,25990.0,1
-Atego,Atego_141,31A,50020.0,50346.0,326.0,1
+modelo,nome,posto,perna,fila,processo,entrada,saida,duracao
+Accelo,Accelo_0,30A,1,0.0,253.0,330.0,583.0,253.0
+Accelo,Accelo_0,31A,1,0.0,316.0,583.0,899.0,316.0
+Accelo,Accelo_0,32A,1,0.0,354.0,899.0,1253.0,354.0
+Atego,Atego_2,30A,1,0.0,314.0,990.0,1304.0,314.0
+Actros,Actros_1,30B,2,0.0,752.0,660.0,1412.0,752.0
+Accelo,Accelo_3,30A,1,0.0,253.0,1320.0,1573.0,253.0
+Atego,Atego_2,31A,1,0.0,314.0,1304.0,1618.0,314.0
+Accelo,Accelo_0,32C,1,0.0,561.0,1253.0,1814.0,561.0
+Accelo,Accelo_3,31A,1,45.0,316.0,1618.0,1934.0,316.0
+Actros,Actros_1,31B,2,0.0,555.0,1412.0,1967.0,555.0
+Atego (ATP),Atego (ATP)_4,30A,1,0.0,326.0,1650.0,1976.0,326.0
+Atego,Atego_2,32A,1,0.0,414.0,1618.0,2032.0,414.0
+Accelo,Accelo_0,33A,1,0.0,369.0,1814.0,2183.0,369.0
+Atego,Atego_5,30A,1,0.0,314.0,1980.0,2294.0,314.0
+Atego (ATP),Atego (ATP)_4,31A,1,0.0,330.0,1976.0,2306.0,330.0
+Accelo,Accelo_3,32A,1,98.0,354.0,2032.0,2386.0,354.0
+Atego,Atego_2,32C,1,0.0,544.0,2032.0,2576.0,544.0
+Atego,Atego_5,31A,1,12.0,314.0,2306.0,2620.0,314.0
+Atego quinta roda,Atego quinta roda_6,30B,2,0.0,326.0,2310.0,2636.0,326.0
+Accelo,Accelo_0,34A,1,0.0,671.0,2183.0,2854.0,671.0
+Accelo,Accelo_7,30A,1,0.0,253.0,2640.0,2893.0,253.0
+Actros,Actros_1,32B,2,0.0,965.0,1967.0,2932.0,965.0
+Atego quinta roda,Atego quinta roda_6,31B,2,0.0,330.0,2636.0,2966.0,330.0
+Atego,Atego_2,33A,1,0.0,428.0,2576.0,3004.0,428.0
+Atego (ATP),Atego (ATP)_4,32A,1,80.0,677.0,2386.0,3063.0,677.0
+Accelo,Accelo_3,32C,1,190.0,561.0,2576.0,3137.0,561.0
+Actros,Actros_1,32D,2,0.0,247.0,2932.0,3179.0,247.0
+Accelo,Accelo_7,31A,1,0.0,316.0,2893.0,3209.0,316.0
+Atego,Atego_5,32A,1,443.0,414.0,3063.0,3477.0,414.0
+Accelo,Accelo_0,38,1,0.0,633.0,2854.0,3487.0,633.0
+Accelo,Accelo_3,33A,1,0.0,369.0,3137.0,3506.0,369.0
+Atego quinta roda,Atego quinta roda_6,32B,2,0.0,557.0,2966.0,3523.0,557.0
+Atego,Atego_2,34A,1,0.0,646.0,3004.0,3650.0,646.0
+Actros,Actros_8,30B,2,0.0,752.0,2970.0,3722.0,752.0
+Accelo,Accelo_7,32A,1,268.0,354.0,3477.0,3831.0,354.0
+Actros,Actros_1,33B,2,0.0,761.0,3179.0,3940.0,761.0
+Atego (ATP),Atego (ATP)_4,32C,1,74.0,815.0,3137.0,3952.0,815.0
+Atego quinta roda,Atego quinta roda_9,30B,2,0.0,326.0,3722.0,4048.0,326.0
+Atego quinta roda,Atego quinta roda_6,32D,2,0.0,588.0,3523.0,4111.0,588.0
+Actros,Actros_8,31B,2,0.0,555.0,3722.0,4277.0,555.0
+Atego,Atego_2,38,1,0.0,633.0,3650.0,4283.0,633.0
+Accelo,Accelo_10,30A,1,0.0,253.0,4052.0,4305.0,253.0
+Accelo,Accelo_3,34A,1,144.0,671.0,3650.0,4321.0,671.0
+Atego (ATP),Atego (ATP)_4,33A,1,0.0,376.0,3952.0,4328.0,376.0
+Atego quinta roda,Atego quinta roda_6,33B,2,0.0,376.0,4111.0,4487.0,376.0
+Atego,Atego_5,32C,1,475.0,544.0,3952.0,4496.0,544.0
+Atego quinta roda,Atego quinta roda_9,31B,2,229.0,330.0,4277.0,4607.0,330.0
+Accelo,Accelo_10,31A,1,0.0,316.0,4305.0,4621.0,316.0
+Atego (ATP),Atego (ATP)_11,30A,1,0.0,326.0,4382.0,4708.0,326.0
+Atego,Atego_5,33A,1,0.0,428.0,4496.0,4924.0,428.0
+Accelo,Accelo_3,38,1,0.0,633.0,4321.0,4954.0,633.0
+Accelo,Accelo_12,30A,1,0.0,253.0,4712.0,4965.0,253.0
+Accelo,Accelo_10,32A,1,0.0,354.0,4621.0,4975.0,354.0
+Atego (ATP),Atego (ATP)_4,34A,1,0.0,650.0,4328.0,4978.0,650.0
+Atego (ATP),Atego (ATP)_11,31A,1,0.0,330.0,4708.0,5038.0,330.0
+Accelo,Accelo_7,32C,1,665.0,561.0,4496.0,5057.0,561.0
+Actros,Actros_8,32B,2,0.0,965.0,4277.0,5242.0,965.0
+Accelo,Accelo_12,31A,1,73.0,316.0,5038.0,5354.0,316.0
+Atego quinta roda,Atego quinta roda_13,30B,2,0.0,326.0,5042.0,5368.0,326.0
+Accelo,Accelo_7,33A,1,0.0,369.0,5057.0,5426.0,369.0
+Actros,Actros_8,32D,2,0.0,247.0,5242.0,5489.0,247.0
+Actros,Actros_1,34B,2,0.0,1623.0,3940.0,5563.0,1623.0
+Atego (ATP),Atego (ATP)_4,38,1,0.0,633.0,4978.0,5611.0,633.0
+Accelo,Accelo_10,32C,1,82.0,561.0,5057.0,5618.0,561.0
+Atego,Atego_5,34A,1,54.0,646.0,4978.0,5624.0,646.0
+Atego quinta roda,Atego quinta roda_13,31B,2,0.0,330.0,5368.0,5698.0,330.0
+Atego (ATP),Atego (ATP)_11,32A,1,0.0,677.0,5038.0,5715.0,677.0
+Atego quinta roda,Atego quinta roda_9,32B,2,635.0,557.0,5242.0,5799.0,557.0
+Actros,Actros_1,39,2,0.0,354.0,5563.0,5917.0,354.0
+Atego quinta roda,Atego quinta roda_6,34B,2,1076.0,395.0,5563.0,5958.0,395.0
+Accelo,Accelo_10,33A,1,0.0,369.0,5618.0,5987.0,369.0
+Atego,Atego_15,30A,1,0.0,314.0,5702.0,6016.0,314.0
+Accelo,Accelo_12,32A,1,361.0,354.0,5715.0,6069.0,354.0
+Atego quinta roda,Atego quinta roda_6,39,2,0.0,120.0,5958.0,6078.0,120.0
+Actros,Actros_14,30B,2,0.0,752.0,5372.0,6124.0,752.0
+Actros,Actros_8,33B,2,0.0,761.0,5489.0,6250.0,761.0
+Atego,Atego_5,38,1,0.0,633.0,5624.0,6257.0,633.0
+Accelo,Accelo_7,34A,1,198.0,671.0,5624.0,6295.0,671.0
+Atego,Atego_15,31A,1,0.0,314.0,6016.0,6330.0,314.0
+Atego quinta roda,Atego quinta roda_13,32B,2,101.0,557.0,5799.0,6356.0,557.0
+Atego quinta roda,Atego quinta roda_9,32D,2,0.0,588.0,5799.0,6387.0,588.0
+Atego quinta roda,Atego quinta roda_16,30B,2,0.0,326.0,6124.0,6450.0,326.0
+Atego (ATP),Atego (ATP)_11,32C,1,0.0,815.0,5715.0,6530.0,815.0
+Actros,Actros_14,31B,2,0.0,555.0,6124.0,6679.0,555.0
+Accelo,Accelo_17,30A,1,0.0,253.0,6454.0,6707.0,253.0
+Atego,Atego_15,32A,1,0.0,414.0,6330.0,6744.0,414.0
+Atego quinta roda,Atego quinta roda_9,33B,2,0.0,376.0,6387.0,6763.0,376.0
+Atego (ATP),Atego (ATP)_11,33A,1,0.0,376.0,6530.0,6906.0,376.0
+Accelo,Accelo_7,38,1,0.0,633.0,6295.0,6928.0,633.0
+Accelo,Accelo_10,34A,1,308.0,671.0,6295.0,6966.0,671.0
+Atego quinta roda,Atego quinta roda_13,32D,2,31.0,588.0,6387.0,6975.0,588.0
+Atego quinta roda,Atego quinta roda_16,31B,2,229.0,330.0,6679.0,7009.0,330.0
+Accelo,Accelo_17,31A,1,0.0,316.0,6707.0,7023.0,316.0
+Accelo,Accelo_12,32C,1,461.0,561.0,6530.0,7091.0,561.0
+Atego quinta roda,Atego quinta roda_18,30B,2,0.0,326.0,6784.0,7110.0,326.0
+Atego quinta roda,Atego quinta roda_13,33B,2,0.0,376.0,6975.0,7351.0,376.0
+Accelo,Accelo_17,32A,1,0.0,354.0,7023.0,7377.0,354.0
+Atego quinta roda,Atego quinta roda_18,31B,2,0.0,330.0,7110.0,7440.0,330.0
+Accelo,Accelo_12,33A,1,0.0,369.0,7091.0,7460.0,369.0
+Accelo,Accelo_10,38,1,0.0,633.0,6966.0,7599.0,633.0
+Atego (ATP),Atego (ATP)_11,34A,1,60.0,650.0,6966.0,7616.0,650.0
+Atego,Atego_15,32C,1,347.0,544.0,7091.0,7635.0,544.0
+Actros,Actros_14,32B,2,0.0,965.0,6679.0,7644.0,965.0
+Actros,Actros_19,30B,2,0.0,752.0,7114.0,7866.0,752.0
+Actros,Actros_8,34B,2,0.0,1623.0,6250.0,7873.0,1623.0
+Actros,Actros_14,32D,2,0.0,247.0,7644.0,7891.0,247.0
+Atego,Atego_15,33A,1,0.0,428.0,7635.0,8063.0,428.0
+Atego quinta roda,Atego quinta roda_20,30B,2,0.0,326.0,7866.0,8192.0,326.0
+Accelo,Accelo_17,32C,1,258.0,561.0,7635.0,8196.0,561.0
+Atego quinta roda,Atego quinta roda_16,32B,2,635.0,557.0,7644.0,8201.0,557.0
+Actros,Actros_8,39,2,0.0,354.0,7873.0,8227.0,354.0
+Atego (ATP),Atego (ATP)_11,38,1,0.0,633.0,7616.0,8249.0,633.0
+Atego quinta roda,Atego quinta roda_9,34B,2,1110.0,395.0,7873.0,8268.0,395.0
+Accelo,Accelo_12,34A,1,156.0,671.0,7616.0,8287.0,671.0
+Atego quinta roda,Atego quinta roda_9,39,2,0.0,120.0,8268.0,8388.0,120.0
+Actros,Actros_19,31B,2,0.0,555.0,7866.0,8421.0,555.0
+Atego (ATP),Atego (ATP)_21,30A,1,0.0,326.0,8196.0,8522.0,326.0
+Accelo,Accelo_17,33A,1,0.0,369.0,8196.0,8565.0,369.0
+Actros,Actros_14,33B,2,0.0,761.0,7891.0,8652.0,761.0
+Atego quinta roda,Atego quinta roda_13,34B,2,917.0,395.0,8268.0,8663.0,395.0
+Atego quinta roda,Atego quinta roda_20,31B,2,229.0,330.0,8421.0,8751.0,330.0
+Atego quinta roda,Atego quinta roda_18,32B,2,761.0,557.0,8201.0,8758.0,557.0
+Atego quinta roda,Atego quinta roda_13,39,2,0.0,120.0,8663.0,8783.0,120.0
+Atego quinta roda,Atego quinta roda_16,32D,2,0.0,588.0,8201.0,8789.0,588.0
+Atego,Atego_22,30A,1,0.0,314.0,8526.0,8840.0,314.0
+Atego (ATP),Atego (ATP)_21,31A,1,0.0,330.0,8522.0,8852.0,330.0
+Accelo,Accelo_12,38,1,0.0,633.0,8287.0,8920.0,633.0
+Atego,Atego_15,34A,1,224.0,646.0,8287.0,8933.0,646.0
+Atego quinta roda,Atego quinta roda_16,33B,2,0.0,376.0,8789.0,9165.0,376.0
+Atego,Atego_22,31A,1,12.0,314.0,8852.0,9166.0,314.0
+Atego,Atego_23,30A,1,0.0,314.0,8856.0,9170.0,314.0
+Atego quinta roda,Atego quinta roda_18,32D,2,31.0,588.0,8789.0,9377.0,588.0
+Atego,Atego_23,31A,1,0.0,314.0,9170.0,9484.0,314.0
+Atego (ATP),Atego (ATP)_21,32A,1,0.0,677.0,8852.0,9529.0,677.0
+Atego,Atego_15,38,1,0.0,633.0,8933.0,9566.0,633.0
+Accelo,Accelo_17,34A,1,368.0,671.0,8933.0,9604.0,671.0
+Actros,Actros_19,32B,2,337.0,965.0,8758.0,9723.0,965.0
+Atego quinta roda,Atego quinta roda_18,33B,2,0.0,376.0,9377.0,9753.0,376.0
+Accelo,Accelo_25,30A,1,0.0,253.0,9516.0,9769.0,253.0
+Actros,Actros_24,30B,2,0.0,752.0,9186.0,9938.0,752.0
+Atego,Atego_22,32A,1,363.0,414.0,9529.0,9943.0,414.0
+Actros,Actros_19,32D,2,0.0,247.0,9723.0,9970.0,247.0
+Accelo,Accelo_25,31A,1,0.0,316.0,9769.0,10085.0,316.0
+Atego,Atego_26,30A,1,0.0,314.0,9846.0,10160.0,314.0
+Accelo,Accelo_17,38,1,0.0,633.0,9604.0,10237.0,633.0
+Atego quinta roda,Atego quinta roda_20,32B,2,972.0,557.0,9723.0,10280.0,557.0
+Actros,Actros_14,34B,2,11.0,1623.0,8663.0,10286.0,1623.0
+Atego (ATP),Atego (ATP)_21,32C,1,0.0,815.0,9529.0,10344.0,815.0
+Atego,Atego_23,32A,1,459.0,414.0,9943.0,10357.0,414.0
+Atego,Atego_26,31A,1,0.0,314.0,10160.0,10474.0,314.0
+Actros,Actros_24,31B,2,0.0,555.0,9938.0,10493.0,555.0
+Atego quinta roda,Atego quinta roda_27,30B,2,0.0,326.0,10176.0,10502.0,326.0
+Actros,Actros_14,39,2,0.0,354.0,10286.0,10640.0,354.0
+Atego quinta roda,Atego quinta roda_16,34B,2,1121.0,395.0,10286.0,10681.0,395.0
+Accelo,Accelo_25,32A,1,272.0,354.0,10357.0,10711.0,354.0
+Atego (ATP),Atego (ATP)_21,33A,1,0.0,376.0,10344.0,10720.0,376.0
+Actros,Actros_19,33B,2,0.0,761.0,9970.0,10731.0,761.0
+Atego quinta roda,Atego quinta roda_16,39,2,0.0,120.0,10681.0,10801.0,120.0
+Atego,Atego_28,30A,1,0.0,314.0,10506.0,10820.0,314.0
+Atego quinta roda,Atego quinta roda_27,31B,2,0.0,330.0,10502.0,10832.0,330.0
+Atego quinta roda,Atego quinta roda_20,32D,2,0.0,588.0,10280.0,10868.0,588.0
+Atego,Atego_22,32C,1,401.0,544.0,10344.0,10888.0,544.0
+Atego quinta roda,Atego quinta roda_18,34B,2,928.0,395.0,10681.0,11076.0,395.0
+Atego,Atego_26,32A,1,237.0,414.0,10711.0,11125.0,414.0
+Atego,Atego_28,31A,1,0.0,314.0,10820.0,11134.0,314.0
+Atego (ATP),Atego (ATP)_29,30A,1,0.0,326.0,10836.0,11162.0,326.0
+Atego quinta roda,Atego quinta roda_18,39,2,0.0,120.0,11076.0,11196.0,120.0
+Atego quinta roda,Atego quinta roda_20,33B,2,0.0,376.0,10868.0,11244.0,376.0
+Atego,Atego_22,33A,1,0.0,428.0,10888.0,11316.0,428.0
+Atego (ATP),Atego (ATP)_21,34A,1,0.0,650.0,10720.0,11370.0,650.0
+Atego,Atego_23,32C,1,531.0,544.0,10888.0,11432.0,544.0
+Actros,Actros_24,32B,2,0.0,965.0,10493.0,11458.0,965.0
+Atego (ATP),Atego (ATP)_29,31A,1,0.0,330.0,11162.0,11492.0,330.0
+Atego (ATP),Atego (ATP)_30,30A,1,0.0,326.0,11166.0,11492.0,326.0
+Atego,Atego_28,32A,1,0.0,414.0,11134.0,11548.0,414.0
+Actros,Actros_24,32D,2,0.0,247.0,11458.0,11705.0,247.0
+Atego (ATP),Atego (ATP)_30,31A,1,0.0,330.0,11492.0,11822.0,330.0
+Atego quinta roda,Atego quinta roda_31,30B,2,0.0,326.0,11496.0,11822.0,326.0
+Atego,Atego_23,33A,1,0.0,428.0,11432.0,11860.0,428.0
+Accelo,Accelo_25,32C,1,721.0,561.0,11432.0,11993.0,561.0
+Atego (ATP),Atego (ATP)_21,38,1,0.0,633.0,11370.0,12003.0,633.0
+Atego quinta roda,Atego quinta roda_27,32B,2,626.0,557.0,11458.0,12015.0,557.0
+Atego,Atego_22,34A,1,54.0,646.0,11370.0,12016.0,646.0
+Accelo,Accelo_32,30A,1,0.0,253.0,11826.0,12079.0,253.0
+Atego quinta roda,Atego quinta roda_31,31B,2,0.0,330.0,11822.0,12152.0,330.0
+Atego (ATP),Atego (ATP)_29,32A,1,56.0,677.0,11548.0,12225.0,677.0
+Accelo,Accelo_25,33A,1,0.0,369.0,11993.0,12362.0,369.0
+Accelo,Accelo_32,31A,1,0.0,316.0,12079.0,12395.0,316.0
+Actros,Actros_24,33B,2,0.0,761.0,11705.0,12466.0,761.0
+Atego,Atego_26,32C,1,868.0,544.0,11993.0,12537.0,544.0
+Atego quinta roda,Atego quinta roda_27,32D,2,0.0,588.0,12015.0,12603.0,588.0
+Atego,Atego_22,38,1,0.0,633.0,12016.0,12649.0,633.0
+Atego,Atego_23,34A,1,156.0,646.0,12016.0,12662.0,646.0
+Actros,Actros_19,34B,2,345.0,1623.0,11076.0,12699.0,1623.0
+Atego quinta roda,Atego quinta roda_31,32B,2,0.0,557.0,12152.0,12709.0,557.0
+Atego,Atego_34,30A,1,0.0,314.0,12486.0,12800.0,314.0
+Atego (ATP),Atego (ATP)_30,32A,1,403.0,677.0,12225.0,12902.0,677.0
+Actros,Actros_33,30B,2,0.0,752.0,12156.0,12908.0,752.0
+Atego,Atego_26,33A,1,0.0,428.0,12537.0,12965.0,428.0
+Atego quinta roda,Atego quinta roda_27,33B,2,0.0,376.0,12603.0,12979.0,376.0
+Actros,Actros_19,39,2,0.0,354.0,12699.0,13053.0,354.0
+Atego,Atego_28,32C,1,989.0,544.0,12537.0,13081.0,544.0
+Atego quinta roda,Atego quinta roda_20,34B,2,1455.0,395.0,12699.0,13094.0,395.0
+Atego,Atego_34,31A,1,0.0,314.0,12800.0,13114.0,314.0
+Atego quinta roda,Atego quinta roda_20,39,2,0.0,120.0,13094.0,13214.0,120.0
+Atego quinta roda,Atego quinta roda_35,30B,2,0.0,326.0,12908.0,13234.0,326.0
+Accelo,Accelo_32,32A,1,507.0,354.0,12902.0,13256.0,354.0
+Atego,Atego_23,38,1,0.0,633.0,12662.0,13295.0,633.0
+Atego quinta roda,Atego quinta roda_31,32D,2,0.0,588.0,12709.0,13297.0,588.0
+Accelo,Accelo_25,34A,1,300.0,671.0,12662.0,13333.0,671.0
+Actros,Actros_33,31B,2,0.0,555.0,12908.0,13463.0,555.0
+Atego,Atego_28,33A,1,0.0,428.0,13081.0,13509.0,428.0
+Atego,Atego_34,32A,1,142.0,414.0,13256.0,13670.0,414.0
+Atego quinta roda,Atego quinta roda_31,33B,2,0.0,376.0,13297.0,13673.0,376.0
+Atego quinta roda,Atego quinta roda_35,31B,2,229.0,330.0,13463.0,13793.0,330.0
+Accelo,Accelo_37,30A,1,0.0,253.0,13568.0,13821.0,253.0
+Atego (ATP),Atego (ATP)_29,32C,1,856.0,815.0,13081.0,13896.0,815.0
+Accelo,Accelo_25,38,1,0.0,633.0,13333.0,13966.0,633.0
+Atego,Atego_26,34A,1,368.0,646.0,13333.0,13979.0,646.0
+Actros,Actros_36,30B,2,0.0,752.0,13238.0,13990.0,752.0
+Accelo,Accelo_37,31A,1,0.0,316.0,13821.0,14137.0,316.0
+Atego (ATP),Atego (ATP)_29,33A,1,0.0,376.0,13896.0,14272.0,376.0
+Atego quinta roda,Atego quinta roda_38,30B,2,0.0,326.0,13990.0,14316.0,326.0
+Actros,Actros_33,32B,2,0.0,965.0,13463.0,14428.0,965.0
+Accelo,Accelo_37,32A,1,0.0,354.0,14137.0,14491.0,354.0
+Actros,Actros_36,31B,2,0.0,555.0,13990.0,14545.0,555.0
+Atego,Atego_26,38,1,0.0,633.0,13979.0,14612.0,633.0
+Atego,Atego_28,34A,1,470.0,646.0,13979.0,14625.0,646.0
+Atego (ATP),Atego (ATP)_39,30A,1,0.0,326.0,14320.0,14646.0,326.0
+Actros,Actros_33,32D,2,0.0,247.0,14428.0,14675.0,247.0
+Atego (ATP),Atego (ATP)_30,32C,1,994.0,815.0,13896.0,14711.0,815.0
+Actros,Actros_24,34B,2,628.0,1623.0,13094.0,14717.0,1623.0
+Atego quinta roda,Atego quinta roda_38,31B,2,229.0,330.0,14545.0,14875.0,330.0
+Accelo,Accelo_40,30A,1,0.0,253.0,14650.0,14903.0,253.0
+Atego (ATP),Atego (ATP)_39,31A,1,0.0,330.0,14646.0,14976.0,330.0
+Atego quinta roda,Atego quinta roda_35,32B,2,635.0,557.0,14428.0,14985.0,557.0
+Actros,Actros_24,39,2,0.0,354.0,14717.0,15071.0,354.0
+Atego (ATP),Atego (ATP)_30,33A,1,0.0,376.0,14711.0,15087.0,376.0
+Atego quinta roda,Atego quinta roda_27,34B,2,1738.0,395.0,14717.0,15112.0,395.0
+Atego quinta roda,Atego quinta roda_27,39,2,0.0,120.0,15112.0,15232.0,120.0
+Accelo,Accelo_41,30A,1,0.0,253.0,14980.0,15233.0,253.0
+Atego,Atego_28,38,1,0.0,633.0,14625.0,15258.0,633.0
+Accelo,Accelo_32,32C,1,1455.0,561.0,14711.0,15272.0,561.0
+Atego (ATP),Atego (ATP)_29,34A,1,353.0,650.0,14625.0,15275.0,650.0
+Accelo,Accelo_40,31A,1,73.0,316.0,14976.0,15292.0,316.0
+Actros,Actros_33,33B,2,0.0,761.0,14675.0,15436.0,761.0
+Atego quinta roda,Atego quinta roda_31,34B,2,1439.0,395.0,15112.0,15507.0,395.0
+Atego quinta roda,Atego quinta roda_35,32D,2,0.0,588.0,14985.0,15573.0,588.0
+Accelo,Accelo_41,31A,1,59.0,316.0,15292.0,15608.0,316.0
+Atego quinta roda,Atego quinta roda_31,39,2,0.0,120.0,15507.0,15627.0,120.0
+Atego quinta roda,Atego quinta roda_42,30B,2,0.0,326.0,15310.0,15636.0,326.0
+Accelo,Accelo_32,33A,1,0.0,369.0,15272.0,15641.0,369.0
+Atego (ATP),Atego (ATP)_39,32A,1,0.0,677.0,14976.0,15653.0,677.0
+Atego,Atego_34,32C,1,1602.0,544.0,15272.0,15816.0,544.0
+Atego (ATP),Atego (ATP)_29,38,1,0.0,633.0,15275.0,15908.0,633.0
+Atego (ATP),Atego (ATP)_30,34A,1,188.0,650.0,15275.0,15925.0,650.0
+Atego quinta roda,Atego quinta roda_35,33B,2,0.0,376.0,15573.0,15949.0,376.0
+Actros,Actros_36,32B,2,440.0,965.0,14985.0,15950.0,965.0
+Atego quinta roda,Atego quinta roda_42,31B,2,0.0,330.0,15636.0,15966.0,330.0
+Accelo,Accelo_40,32A,1,361.0,354.0,15653.0,16007.0,354.0
+Actros,Actros_36,32D,2,0.0,247.0,15950.0,16197.0,247.0
+Atego,Atego_34,33A,1,0.0,428.0,15816.0,16244.0,428.0
+Atego,Atego_44,30A,1,0.0,314.0,15970.0,16284.0,314.0
+Accelo,Accelo_41,32A,1,399.0,354.0,16007.0,16361.0,354.0
+Accelo,Accelo_37,32C,1,1325.0,561.0,15816.0,16377.0,561.0
+Actros,Actros_43,30B,2,0.0,752.0,15640.0,16392.0,752.0
+Atego quinta roda,Atego quinta roda_38,32B,2,1075.0,557.0,15950.0,16507.0,557.0
+Accelo,Accelo_45,30A,1,0.0,253.0,16300.0,16553.0,253.0
+Atego (ATP),Atego (ATP)_30,38,1,0.0,633.0,15925.0,16558.0,633.0
+Accelo,Accelo_32,34A,1,284.0,671.0,15925.0,16596.0,671.0
+Atego,Atego_44,31A,1,0.0,314.0,16284.0,16598.0,314.0
+Accelo,Accelo_37,33A,1,0.0,369.0,16377.0,16746.0,369.0
+Accelo,Accelo_45,31A,1,45.0,316.0,16598.0,16914.0,316.0
+Actros,Actros_43,31B,2,0.0,555.0,16392.0,16947.0,555.0
+Atego (ATP),Atego (ATP)_46,30A,1,0.0,326.0,16630.0,16956.0,326.0
+Actros,Actros_36,33B,2,0.0,761.0,16197.0,16958.0,761.0
+Atego,Atego_44,32A,1,0.0,414.0,16598.0,17012.0,414.0
+Atego quinta roda,Atego quinta roda_42,32B,2,541.0,557.0,16507.0,17064.0,557.0
+Atego quinta roda,Atego quinta roda_38,32D,2,0.0,588.0,16507.0,17095.0,588.0
+Actros,Actros_33,34B,2,71.0,1623.0,15507.0,17130.0,1623.0
+Atego (ATP),Atego (ATP)_39,32C,1,724.0,815.0,16377.0,17192.0,815.0
+Accelo,Accelo_32,38,1,0.0,633.0,16596.0,17229.0,633.0
+Atego,Atego_34,34A,1,352.0,646.0,16596.0,17242.0,646.0
+Atego (ATP),Atego (ATP)_46,31A,1,0.0,330.0,16956.0,17286.0,330.0
+Atego quinta roda,Atego quinta roda_47,30B,2,0.0,326.0,16960.0,17286.0,326.0
+Accelo,Accelo_45,32A,1,98.0,354.0,17012.0,17366.0,354.0
+Atego quinta roda,Atego quinta roda_38,33B,2,0.0,376.0,17095.0,17471.0,376.0
+Actros,Actros_33,39,2,0.0,354.0,17130.0,17484.0,354.0
+Atego quinta roda,Atego quinta roda_35,34B,2,1181.0,395.0,17130.0,17525.0,395.0
+Atego (ATP),Atego (ATP)_39,33A,1,0.0,376.0,17192.0,17568.0,376.0
+Atego quinta roda,Atego quinta roda_47,31B,2,0.0,330.0,17286.0,17616.0,330.0
+Atego quinta roda,Atego quinta roda_35,39,2,0.0,120.0,17525.0,17645.0,120.0
+Atego quinta roda,Atego quinta roda_42,32D,2,31.0,588.0,17095.0,17683.0,588.0
+Accelo,Accelo_40,32C,1,1185.0,561.0,17192.0,17753.0,561.0
+Accelo,Accelo_49,30A,1,0.0,253.0,17620.0,17873.0,253.0
+Atego,Atego_34,38,1,0.0,633.0,17242.0,17875.0,633.0
+Accelo,Accelo_37,34A,1,496.0,671.0,17242.0,17913.0,671.0
+Actros,Actros_43,32B,2,117.0,965.0,17064.0,18029.0,965.0
+Actros,Actros_48,30B,2,0.0,752.0,17290.0,18042.0,752.0
+Atego (ATP),Atego (ATP)_46,32A,1,80.0,677.0,17366.0,18043.0,677.0
+Atego quinta roda,Atego quinta roda_42,33B,2,0.0,376.0,17683.0,18059.0,376.0
+Accelo,Accelo_40,33A,1,0.0,369.0,17753.0,18122.0,369.0
+Accelo,Accelo_49,31A,1,0.0,316.0,17873.0,18189.0,316.0
+Atego,Atego_50,30A,1,0.0,314.0,17950.0,18264.0,314.0
+Actros,Actros_43,32D,2,0.0,247.0,18029.0,18276.0,247.0
+Accelo,Accelo_41,32C,1,1392.0,561.0,17753.0,18314.0,561.0
+Accelo,Accelo_49,32A,1,0.0,354.0,18189.0,18543.0,354.0
+Accelo,Accelo_37,38,1,0.0,633.0,17913.0,18546.0,633.0
+Atego (ATP),Atego (ATP)_39,34A,1,345.0,650.0,17913.0,18563.0,650.0
+Atego,Atego_50,31A,1,0.0,314.0,18264.0,18578.0,314.0
+Atego quinta roda,Atego quinta roda_47,32B,2,413.0,557.0,18029.0,18586.0,557.0
+Actros,Actros_48,31B,2,0.0,555.0,18042.0,18597.0,555.0
+Atego (ATP),Atego (ATP)_51,30A,1,0.0,326.0,18280.0,18606.0,326.0
+Accelo,Accelo_41,33A,1,0.0,369.0,18314.0,18683.0,369.0
+Atego,Atego_44,32C,1,1302.0,544.0,18314.0,18858.0,544.0
+Atego (ATP),Atego (ATP)_51,31A,1,0.0,330.0,18606.0,18936.0,330.0
+Atego (ATP),Atego (ATP)_52,30A,1,0.0,326.0,18610.0,18936.0,326.0
+Atego,Atego_50,32A,1,0.0,414.0,18578.0,18992.0,414.0
+Actros,Actros_43,33B,2,0.0,761.0,18276.0,19037.0,761.0
+Actros,Actros_36,34B,2,567.0,1623.0,17525.0,19148.0,1623.0
+Atego quinta roda,Atego quinta roda_47,32D,2,0.0,588.0,18586.0,19174.0,588.0
+Atego (ATP),Atego (ATP)_39,38,1,0.0,633.0,18563.0,19196.0,633.0
+Accelo,Accelo_40,34A,1,441.0,671.0,18563.0,19234.0,671.0
+Atego,Atego_53,30A,1,0.0,314.0,18940.0,19254.0,314.0
+Atego (ATP),Atego (ATP)_52,31A,1,0.0,330.0,18936.0,19266.0,330.0
+Atego,Atego_44,33A,1,0.0,428.0,18858.0,19286.0,428.0
+Accelo,Accelo_45,32C,1,1492.0,561.0,18858.0,19419.0,561.0
+Actros,Actros_36,39,2,0.0,354.0,19148.0,19502.0,354.0
+Atego quinta roda,Atego quinta roda_38,34B,2,1677.0,395.0,19148.0,19543.0,395.0
+Atego quinta roda,Atego quinta roda_47,33B,2,0.0,376.0,19174.0,19550.0,376.0
+Actros,Actros_48,32B,2,0.0,965.0,18597.0,19562.0,965.0
+Atego,Atego_53,31A,1,12.0,314.0,19266.0,19580.0,314.0
+Atego quinta roda,Atego quinta roda_38,39,2,0.0,120.0,19543.0,19663.0,120.0
+Atego (ATP),Atego (ATP)_51,32A,1,56.0,677.0,18992.0,19669.0,677.0
+Accelo,Accelo_45,33A,1,0.0,369.0,19419.0,19788.0,369.0
+Actros,Actros_48,32D,2,0.0,247.0,19562.0,19809.0,247.0
+Accelo,Accelo_40,38,1,0.0,633.0,19234.0,19867.0,633.0
+Accelo,Accelo_41,34A,1,551.0,671.0,19234.0,19905.0,671.0
+Atego quinta roda,Atego quinta roda_42,34B,2,1484.0,395.0,19543.0,19938.0,395.0
+Axor (ATP +),Axor (ATP +)_54,30B,2,0.0,752.0,19270.0,20022.0,752.0
+Atego quinta roda,Atego quinta roda_42,39,2,0.0,120.0,19938.0,20058.0,120.0
+Atego (ATP),Atego (ATP)_46,32C,1,1376.0,815.0,19419.0,20234.0,815.0
+Atego (ATP),Atego (ATP)_52,32A,1,403.0,677.0,19669.0,20346.0,677.0
+Atego quinta roda,Atego quinta roda_55,30B,2,0.0,326.0,20022.0,20348.0,326.0
+Accelo,Accelo_41,38,1,0.0,633.0,19905.0,20538.0,633.0
+Atego,Atego_44,34A,1,619.0,646.0,19905.0,20551.0,646.0
+Actros,Actros_48,33B,2,0.0,761.0,19809.0,20570.0,761.0
+Axor (ATP +),Axor (ATP +)_54,31B,2,0.0,555.0,20022.0,20577.0,555.0
+Accelo,Accelo_56,30A,1,0.0,253.0,20352.0,20605.0,253.0
+Atego (ATP),Atego (ATP)_46,33A,1,0.0,376.0,20234.0,20610.0,376.0
+Atego,Atego_53,32A,1,766.0,414.0,20346.0,20760.0,414.0
+Accelo,Accelo_49,32C,1,1691.0,561.0,20234.0,20795.0,561.0
+Atego quinta roda,Atego quinta roda_55,31B,2,229.0,330.0,20577.0,20907.0,330.0
+Accelo,Accelo_56,31A,1,0.0,316.0,20605.0,20921.0,316.0
+Accelo,Accelo_49,33A,1,0.0,369.0,20795.0,21164.0,369.0
+Atego,Atego_44,38,1,0.0,633.0,20551.0,21184.0,633.0
+Accelo,Accelo_45,34A,1,763.0,671.0,20551.0,21222.0,671.0
+Accelo,Accelo_58,30A,1,0.0,253.0,21012.0,21265.0,253.0
+Accelo,Accelo_56,32A,1,0.0,354.0,20921.0,21275.0,354.0
+Atego,Atego_50,32C,1,1803.0,544.0,20795.0,21339.0,544.0
+Actros,Actros_57,30B,2,0.0,752.0,20682.0,21434.0,752.0
+Axor (ATP +),Axor (ATP +)_54,32B,2,0.0,965.0,20577.0,21542.0,965.0
+Actros,Actros_43,34B,2,901.0,1623.0,19938.0,21561.0,1623.0
+Accelo,Accelo_58,31A,1,0.0,316.0,21265.0,21581.0,316.0
+Atego,Atego_59,30A,1,0.0,314.0,21342.0,21656.0,314.0
+Atego,Atego_50,33A,1,0.0,428.0,21339.0,21767.0,428.0
+Axor (ATP +),Axor (ATP +)_54,32D,2,0.0,247.0,21542.0,21789.0,247.0
+Accelo,Accelo_45,38,1,0.0,633.0,21222.0,21855.0,633.0
+Atego (ATP),Atego (ATP)_46,34A,1,612.0,650.0,21222.0,21872.0,650.0
+Actros,Actros_43,39,2,0.0,354.0,21561.0,21915.0,354.0
+Accelo,Accelo_58,32A,1,0.0,354.0,21581.0,21935.0,354.0
+Atego quinta roda,Atego quinta roda_47,34B,2,2011.0,395.0,21561.0,21956.0,395.0
+Atego,Atego_59,31A,1,0.0,314.0,21656.0,21970.0,314.0
+Actros,Actros_57,31B,2,0.0,555.0,21434.0,21989.0,555.0
+Atego (ATP),Atego (ATP)_60,30A,1,0.0,326.0,21672.0,21998.0,326.0
+Atego quinta roda,Atego quinta roda_47,39,2,0.0,120.0,21956.0,22076.0,120.0
+Atego quinta roda,Atego quinta roda_55,32B,2,635.0,557.0,21542.0,22099.0,557.0
+Atego (ATP),Atego (ATP)_51,32C,1,1670.0,815.0,21339.0,22154.0,815.0
+Atego,Atego_61,30A,1,0.0,314.0,22002.0,22316.0,314.0
+Atego (ATP),Atego (ATP)_60,31A,1,0.0,330.0,21998.0,22328.0,330.0
+Atego,Atego_59,32A,1,0.0,414.0,21970.0,22384.0,414.0
+Atego (ATP),Atego (ATP)_46,38,1,0.0,633.0,21872.0,22505.0,633.0
+Atego (ATP),Atego (ATP)_51,33A,1,0.0,376.0,22154.0,22530.0,376.0
+Accelo,Accelo_49,34A,1,708.0,671.0,21872.0,22543.0,671.0
+Axor (ATP +),Axor (ATP +)_54,33B,2,0.0,761.0,21789.0,22550.0,761.0
+Accelo,Accelo_62,30A,1,0.0,253.0,22332.0,22585.0,253.0
+Atego,Atego_61,31A,1,12.0,314.0,22328.0,22642.0,314.0
+Atego quinta roda,Atego quinta roda_55,32D,2,0.0,588.0,22099.0,22687.0,588.0
+Accelo,Accelo_62,31A,1,57.0,316.0,22642.0,22958.0,316.0
+Atego (ATP),Atego (ATP)_52,32C,1,1808.0,815.0,22154.0,22969.0,815.0
+Atego (ATP),Atego (ATP)_60,32A,1,56.0,677.0,22384.0,23061.0,677.0
+Atego quinta roda,Atego quinta roda_55,33B,2,0.0,376.0,22687.0,23063.0,376.0
+Actros,Actros_57,32B,2,110.0,965.0,22099.0,23064.0,965.0
+Accelo,Accelo_49,38,1,0.0,633.0,22543.0,23176.0,633.0
+Atego,Atego_50,34A,1,776.0,646.0,22543.0,23189.0,646.0
+Atego,Atego_64,30A,1,0.0,314.0,22992.0,23306.0,314.0
+Actros,Actros_57,32D,2,0.0,247.0,23064.0,23311.0,247.0
+Atego (ATP),Atego (ATP)_52,33A,1,0.0,376.0,22969.0,23345.0,376.0
+Actros,Actros_63,30B,2,0.0,752.0,22662.0,23414.0,752.0
+Atego,Atego_61,32A,1,419.0,414.0,23061.0,23475.0,414.0
+Atego,Atego_53,32C,1,2209.0,544.0,22969.0,23513.0,544.0
+Accelo,Accelo_65,30A,1,0.0,253.0,23322.0,23575.0,253.0
+Actros,Actros_48,34B,2,1386.0,1623.0,21956.0,23579.0,1623.0
+Atego,Atego_64,31A,1,0.0,314.0,23306.0,23620.0,314.0
+Atego,Atego_50,38,1,0.0,633.0,23189.0,23822.0,633.0
+Accelo,Accelo_62,32A,1,517.0,354.0,23475.0,23829.0,354.0
+Atego (ATP),Atego (ATP)_51,34A,1,659.0,650.0,23189.0,23839.0,650.0
+Actros,Actros_48,39,2,0.0,354.0,23579.0,23933.0,354.0
+Accelo,Accelo_65,31A,1,45.0,316.0,23620.0,23936.0,316.0
+Atego,Atego_53,33A,1,0.0,428.0,23513.0,23941.0,428.0
+Actros,Actros_63,31B,2,0.0,555.0,23414.0,23969.0,555.0
+Atego (ATP),Atego (ATP)_66,30A,1,0.0,326.0,23652.0,23978.0,326.0
+Actros,Actros_57,33B,2,0.0,761.0,23311.0,24072.0,761.0
+Accelo,Accelo_56,32C,1,2238.0,561.0,23513.0,24074.0,561.0
+Atego,Atego_64,32A,1,209.0,414.0,23829.0,24243.0,414.0
+Atego,Atego_67,30A,1,0.0,314.0,23982.0,24296.0,314.0
+Atego (ATP),Atego (ATP)_66,31A,1,0.0,330.0,23978.0,24308.0,330.0
+Accelo,Accelo_56,33A,1,0.0,369.0,24074.0,24443.0,369.0
+Atego (ATP),Atego (ATP)_51,38,1,0.0,633.0,23839.0,24472.0,633.0
+Atego (ATP),Atego (ATP)_52,34A,1,494.0,650.0,23839.0,24489.0,650.0
+Accelo,Accelo_68,30A,1,0.0,253.0,24312.0,24565.0,253.0
+Accelo,Accelo_65,32A,1,307.0,354.0,24243.0,24597.0,354.0
+Atego,Atego_67,31A,1,12.0,314.0,24308.0,24622.0,314.0
+Accelo,Accelo_58,32C,1,2139.0,561.0,24074.0,24635.0,561.0
+Actros,Actros_63,32B,2,0.0,965.0,23969.0,24934.0,965.0
+Accelo,Accelo_68,31A,1,57.0,316.0,24622.0,24938.0,316.0
+Accelo,Accelo_58,33A,1,0.0,369.0,24635.0,25004.0,369.0
+Atego (ATP),Atego (ATP)_52,38,1,0.0,633.0,24489.0,25122.0,633.0
+Atego,Atego_53,34A,1,548.0,646.0,24489.0,25135.0,646.0
+Atego,Atego_59,32C,1,2251.0,544.0,24635.0,25179.0,544.0
+Actros,Actros_63,32D,2,0.0,247.0,24934.0,25181.0,247.0
+Axor (ATP +),Axor (ATP +)_54,34B,2,1029.0,1623.0,23579.0,25202.0,1623.0
+Atego (ATP),Atego (ATP)_66,32A,1,289.0,677.0,24597.0,25274.0,677.0
+Atego,Atego_70,30A,1,0.0,314.0,24972.0,25286.0,314.0
+Actros,Actros_69,30B,2,0.0,752.0,24642.0,25394.0,752.0
+Accelo,Accelo_71,30A,1,0.0,253.0,25302.0,25555.0,253.0
+Axor (ATP +),Axor (ATP +)_54,39,2,0.0,354.0,25202.0,25556.0,354.0
+Atego quinta roda,Atego quinta roda_55,34B,2,2139.0,395.0,25202.0,25597.0,395.0
+Atego,Atego_70,31A,1,0.0,314.0,25286.0,25600.0,314.0
+Atego,Atego_59,33A,1,0.0,428.0,25179.0,25607.0,428.0
+Atego,Atego_67,32A,1,652.0,414.0,25274.0,25688.0,414.0
+Atego quinta roda,Atego quinta roda_55,39,2,0.0,120.0,25597.0,25717.0,120.0
+Atego,Atego_53,38,1,0.0,633.0,25135.0,25768.0,633.0
+Accelo,Accelo_56,34A,1,692.0,671.0,25135.0,25806.0,671.0
+Accelo,Accelo_71,31A,1,45.0,316.0,25600.0,25916.0,316.0
+Actros,Actros_63,33B,2,0.0,761.0,25181.0,25942.0,761.0
+Actros,Actros_69,31B,2,0.0,555.0,25394.0,25949.0,555.0
+Atego (ATP),Atego (ATP)_72,30A,1,0.0,326.0,25632.0,25958.0,326.0
+Atego (ATP),Atego (ATP)_60,32C,1,2118.0,815.0,25179.0,25994.0,815.0
+Accelo,Accelo_68,32A,1,750.0,354.0,25688.0,26042.0,354.0
+Atego (ATP),Atego (ATP)_72,31A,1,0.0,330.0,25958.0,26288.0,330.0
+Atego quinta roda,Atego quinta roda_73,30B,2,0.0,326.0,25962.0,26288.0,326.0
+Atego (ATP),Atego (ATP)_60,33A,1,0.0,376.0,25994.0,26370.0,376.0
+Accelo,Accelo_56,38,1,0.0,633.0,25806.0,26439.0,633.0
+Atego,Atego_70,32A,1,442.0,414.0,26042.0,26456.0,414.0
+Accelo,Accelo_58,34A,1,802.0,671.0,25806.0,26477.0,671.0
+Atego,Atego_61,32C,1,2519.0,544.0,25994.0,26538.0,544.0
+Atego quinta roda,Atego quinta roda_73,31B,2,0.0,330.0,26288.0,26618.0,330.0
+Atego quinta roda,Atego quinta roda_74,30B,2,0.0,326.0,26292.0,26618.0,326.0
+Accelo,Accelo_71,32A,1,540.0,354.0,26456.0,26810.0,354.0
+Actros,Actros_69,32B,2,0.0,965.0,25949.0,26914.0,965.0
+Atego quinta roda,Atego quinta roda_74,31B,2,0.0,330.0,26618.0,26948.0,330.0
+Atego,Atego_61,33A,1,0.0,428.0,26538.0,26966.0,428.0
+Accelo,Accelo_62,32C,1,2709.0,561.0,26538.0,27099.0,561.0
+Accelo,Accelo_58,38,1,0.0,633.0,26477.0,27110.0,633.0
+Atego,Atego_59,34A,1,870.0,646.0,26477.0,27123.0,646.0
+Actros,Actros_69,32D,2,0.0,247.0,26914.0,27161.0,247.0
+Actros,Actros_57,34B,2,1525.0,1623.0,25597.0,27220.0,1623.0
+Atego,Atego_76,30A,1,0.0,314.0,26952.0,27266.0,314.0
+Actros,Actros_75,30B,2,0.0,752.0,26622.0,27374.0,752.0
+Accelo,Accelo_62,33A,1,0.0,369.0,27099.0,27468.0,369.0
+Atego quinta roda,Atego quinta roda_73,32B,2,296.0,557.0,26914.0,27471.0,557.0
+Atego (ATP),Atego (ATP)_72,32A,1,522.0,677.0,26810.0,27487.0,677.0
+Actros,Actros_57,39,2,0.0,354.0,27220.0,27574.0,354.0
+Atego,Atego_76,31A,1,0.0,314.0,27266.0,27580.0,314.0
+Atego,Atego_64,32C,1,2856.0,544.0,27099.0,27643.0,544.0
+Atego quinta roda,Atego quinta roda_77,30B,2,0.0,326.0,27374.0,27700.0,326.0
+Atego,Atego_59,38,1,0.0,633.0,27123.0,27756.0,633.0
+Atego (ATP),Atego (ATP)_60,34A,1,753.0,650.0,27123.0,27773.0,650.0
+Actros,Actros_69,33B,2,0.0,761.0,27161.0,27922.0,761.0
+Actros,Actros_75,31B,2,0.0,555.0,27374.0,27929.0,555.0
+Atego,Atego_76,32A,1,0.0,414.0,27580.0,27994.0,414.0
+Atego quinta roda,Atego quinta roda_74,32B,2,523.0,557.0,27471.0,28028.0,557.0
+Atego quinta roda,Atego quinta roda_73,32D,2,0.0,588.0,27471.0,28059.0,588.0
+Atego,Atego_64,33A,1,0.0,428.0,27643.0,28071.0,428.0
+Accelo,Accelo_65,32C,1,3046.0,561.0,27643.0,28204.0,561.0
+Atego quinta roda,Atego quinta roda_77,31B,2,229.0,330.0,27929.0,28259.0,330.0
+Accelo,Accelo_79,30A,1,0.0,253.0,28034.0,28287.0,253.0
+Atego (ATP),Atego (ATP)_60,38,1,0.0,633.0,27773.0,28406.0,633.0
+Atego,Atego_61,34A,1,807.0,646.0,27773.0,28419.0,646.0
+Atego quinta roda,Atego quinta roda_73,33B,2,0.0,376.0,28059.0,28435.0,376.0
+Actros,Actros_78,30B,2,0.0,752.0,27704.0,28456.0,752.0
+Accelo,Accelo_65,33A,1,0.0,369.0,28204.0,28573.0,369.0
+Accelo,Accelo_79,31A,1,0.0,316.0,28287.0,28603.0,316.0
+Atego quinta roda,Atego quinta roda_74,32D,2,31.0,588.0,28059.0,28647.0,588.0
+Atego (ATP),Atego (ATP)_80,30A,1,0.0,326.0,28364.0,28690.0,326.0
+Actros,Actros_63,34B,2,1278.0,1623.0,27220.0,28843.0,1623.0
+Accelo,Accelo_81,30A,1,0.0,253.0,28694.0,28947.0,253.0
+Accelo,Accelo_79,32A,1,0.0,354.0,28603.0,28957.0,354.0
+Actros,Actros_75,32B,2,99.0,965.0,28028.0,28993.0,965.0
+Actros,Actros_78,31B,2,0.0,555.0,28456.0,29011.0,555.0
+Atego (ATP),Atego (ATP)_66,32C,1,2930.0,815.0,28204.0,29019.0,815.0
+Atego (ATP),Atego (ATP)_80,31A,1,0.0,330.0,28690.0,29020.0,330.0
+Atego quinta roda,Atego quinta roda_74,33B,2,0.0,376.0,28647.0,29023.0,376.0
+Atego,Atego_61,38,1,0.0,633.0,28419.0,29052.0,633.0
+Accelo,Accelo_62,34A,1,951.0,671.0,28419.0,29090.0,671.0
+Actros,Actros_63,39,2,0.0,354.0,28843.0,29197.0,354.0
+Actros,Actros_75,32D,2,0.0,247.0,28993.0,29240.0,247.0
+Accelo,Accelo_81,31A,1,73.0,316.0,29020.0,29336.0,316.0
+Atego (ATP),Atego (ATP)_66,33A,1,0.0,376.0,29019.0,29395.0,376.0
+Atego quinta roda,Atego quinta roda_77,32B,2,734.0,557.0,28993.0,29550.0,557.0
+Atego,Atego_67,32C,1,3331.0,544.0,29019.0,29563.0,544.0
+Accelo,Accelo_83,30A,1,0.0,253.0,29354.0,29607.0,253.0
+Atego (ATP),Atego (ATP)_80,32A,1,0.0,677.0,29020.0,29697.0,677.0
+Accelo,Accelo_62,38,1,0.0,633.0,29090.0,29723.0,633.0
+Atego,Atego_64,34A,1,1019.0,646.0,29090.0,29736.0,646.0
+Actros,Actros_82,30B,2,0.0,752.0,29024.0,29776.0,752.0
+Accelo,Accelo_83,31A,1,0.0,316.0,29607.0,29923.0,316.0
+Atego,Atego_67,33A,1,0.0,428.0,29563.0,29991.0,428.0
+Atego,Atego_84,30A,1,0.0,314.0,29684.0,29998.0,314.0
+Actros,Actros_75,33B,2,0.0,761.0,29240.0,30001.0,761.0
+Accelo,Accelo_81,32A,1,361.0,354.0,29697.0,30051.0,354.0
+Accelo,Accelo_68,32C,1,3521.0,561.0,29563.0,30124.0,561.0
+Atego quinta roda,Atego quinta roda_77,32D,2,0.0,588.0,29550.0,30138.0,588.0
+Atego,Atego_84,31A,1,0.0,314.0,29998.0,30312.0,314.0
+Actros,Actros_82,31B,2,0.0,555.0,29776.0,30331.0,555.0
+Atego (ATP),Atego (ATP)_85,30A,1,0.0,326.0,30014.0,30340.0,326.0
+Atego,Atego_64,38,1,0.0,633.0,29736.0,30369.0,633.0
+Accelo,Accelo_83,32A,1,128.0,354.0,30051.0,30405.0,354.0
+Accelo,Accelo_65,34A,1,1163.0,671.0,29736.0,30407.0,671.0
+Actros,Actros_69,34B,2,921.0,1623.0,28843.0,30466.0,1623.0
+Accelo,Accelo_68,33A,1,0.0,369.0,30124.0,30493.0,369.0
+Atego quinta roda,Atego quinta roda_77,33B,2,0.0,376.0,30138.0,30514.0,376.0
+Actros,Actros_78,32B,2,539.0,965.0,29550.0,30515.0,965.0
+Accelo,Accelo_86,30A,1,0.0,253.0,30344.0,30597.0,253.0
+Atego,Atego_70,32C,1,3668.0,544.0,30124.0,30668.0,544.0
+Atego (ATP),Atego (ATP)_85,31A,1,0.0,330.0,30340.0,30670.0,330.0
+Actros,Actros_78,32D,2,0.0,247.0,30515.0,30762.0,247.0
+Atego,Atego_84,32A,1,93.0,414.0,30405.0,30819.0,414.0
+Actros,Actros_69,39,2,0.0,354.0,30466.0,30820.0,354.0
+Atego quinta roda,Atego quinta roda_73,34B,2,2031.0,395.0,30466.0,30861.0,395.0
+Accelo,Accelo_87,30A,1,0.0,253.0,30674.0,30927.0,253.0
+Atego quinta roda,Atego quinta roda_73,39,2,0.0,120.0,30861.0,30981.0,120.0
+Accelo,Accelo_86,31A,1,73.0,316.0,30670.0,30986.0,316.0
+Accelo,Accelo_65,38,1,0.0,633.0,30407.0,31040.0,633.0
+Atego (ATP),Atego (ATP)_66,34A,1,1012.0,650.0,30407.0,31057.0,650.0
+Atego,Atego_70,33A,1,0.0,428.0,30668.0,31096.0,428.0
+Accelo,Accelo_71,32C,1,3858.0,561.0,30668.0,31229.0,561.0
+Atego quinta roda,Atego quinta roda_74,34B,2,1838.0,395.0,30861.0,31256.0,395.0
+Accelo,Accelo_87,31A,1,59.0,316.0,30986.0,31302.0,316.0
+Atego quinta roda,Atego quinta roda_88,30B,2,0.0,326.0,31004.0,31330.0,326.0
+Atego quinta roda,Atego quinta roda_74,39,2,0.0,120.0,31256.0,31376.0,120.0
+Actros,Actros_82,32B,2,184.0,965.0,30515.0,31480.0,965.0
+Atego (ATP),Atego (ATP)_85,32A,1,149.0,677.0,30819.0,31496.0,677.0
+Actros,Actros_78,33B,2,0.0,761.0,30762.0,31523.0,761.0
+Accelo,Accelo_71,33A,1,0.0,369.0,31229.0,31598.0,369.0
+Atego quinta roda,Atego quinta roda_88,31B,2,0.0,330.0,31330.0,31660.0,330.0
+Atego (ATP),Atego (ATP)_66,38,1,0.0,633.0,31057.0,31690.0,633.0
+Atego,Atego_67,34A,1,1066.0,646.0,31057.0,31703.0,646.0
+Actros,Actros_82,32D,2,0.0,247.0,31480.0,31727.0,247.0
+Accelo,Accelo_86,32A,1,510.0,354.0,31496.0,31850.0,354.0
+Accelo,Accelo_90,30A,1,0.0,253.0,31664.0,31917.0,253.0
+Atego (ATP),Atego (ATP)_72,32C,1,3742.0,815.0,31229.0,32044.0,815.0
+Actros,Actros_89,30B,2,0.0,752.0,31334.0,32086.0,752.0
+Accelo,Accelo_87,32A,1,548.0,354.0,31850.0,32204.0,354.0
+Atego quinta roda,Atego quinta roda_88,32B,2,0.0,557.0,31660.0,32217.0,557.0
+Accelo,Accelo_90,31A,1,0.0,316.0,31917.0,32233.0,316.0
+Atego,Atego_91,30A,1,0.0,314.0,31994.0,32308.0,314.0
+Atego,Atego_67,38,1,0.0,633.0,31703.0,32336.0,633.0
+Accelo,Accelo_68,34A,1,1210.0,671.0,31703.0,32374.0,671.0
+Atego (ATP),Atego (ATP)_72,33A,1,0.0,376.0,32044.0,32420.0,376.0
+Actros,Actros_82,33B,2,0.0,761.0,31727.0,32488.0,761.0
+Accelo,Accelo_90,32A,1,0.0,354.0,32233.0,32587.0,354.0
+Atego,Atego_76,32C,1,4050.0,544.0,32044.0,32588.0,544.0
+Atego,Atego_91,31A,1,0.0,314.0,32308.0,32622.0,314.0
+Actros,Actros_89,31B,2,0.0,555.0,32086.0,32641.0,555.0
+Atego (ATP),Atego (ATP)_92,30A,1,0.0,326.0,32324.0,32650.0,326.0
+Atego quinta roda,Atego quinta roda_88,32D,2,0.0,588.0,32217.0,32805.0,588.0
+Actros,Actros_75,34B,2,1255.0,1623.0,31256.0,32879.0,1623.0
+Atego,Atego_93,30A,1,0.0,314.0,32654.0,32968.0,314.0
+Atego (ATP),Atego (ATP)_92,31A,1,0.0,330.0,32650.0,32980.0,330.0
+Accelo,Accelo_68,38,1,0.0,633.0,32374.0,33007.0,633.0
+Atego,Atego_76,33A,1,0.0,428.0,32588.0,33016.0,428.0
+Atego,Atego_70,34A,1,1278.0,646.0,32374.0,33020.0,646.0
+Atego,Atego_91,32A,1,0.0,414.0,32622.0,33036.0,414.0
+Accelo,Accelo_79,32C,1,3631.0,561.0,32588.0,33149.0,561.0
+Atego quinta roda,Atego quinta roda_88,33B,2,0.0,376.0,32805.0,33181.0,376.0
+Actros,Actros_75,39,2,0.0,354.0,32879.0,33233.0,354.0
+Atego quinta roda,Atego quinta roda_77,34B,2,2365.0,395.0,32879.0,33274.0,395.0
+Atego,Atego_93,31A,1,12.0,314.0,32980.0,33294.0,314.0
+Atego quinta roda,Atego quinta roda_94,30B,2,0.0,326.0,32984.0,33310.0,326.0
+Atego quinta roda,Atego quinta roda_77,39,2,0.0,120.0,33274.0,33394.0,120.0
+Accelo,Accelo_79,33A,1,0.0,369.0,33149.0,33518.0,369.0
+Actros,Actros_89,32B,2,0.0,965.0,32641.0,33606.0,965.0
+Atego quinta roda,Atego quinta roda_94,31B,2,0.0,330.0,33310.0,33640.0,330.0
+Atego,Atego_70,38,1,0.0,633.0,33020.0,33653.0,633.0
+Accelo,Accelo_71,34A,1,1422.0,671.0,33020.0,33691.0,671.0
+Atego (ATP),Atego (ATP)_92,32A,1,56.0,677.0,33036.0,33713.0,677.0
+Actros,Actros_89,32D,2,0.0,247.0,33606.0,33853.0,247.0
+Atego (ATP),Atego (ATP)_80,32C,1,3452.0,815.0,33149.0,33964.0,815.0
+Actros,Actros_95,30B,2,0.0,752.0,33314.0,34066.0,752.0
+Atego,Atego_93,32A,1,419.0,414.0,33713.0,34127.0,414.0
+Atego quinta roda,Atego quinta roda_94,32B,2,0.0,557.0,33640.0,34197.0,557.0
+Accelo,Accelo_71,38,1,0.0,633.0,33691.0,34324.0,633.0
+Atego (ATP),Atego (ATP)_80,33A,1,0.0,376.0,33964.0,34340.0,376.0
+Atego (ATP),Atego (ATP)_72,34A,1,1271.0,650.0,33691.0,34341.0,650.0
+Atego quinta roda,Atego quinta roda_96,30B,2,0.0,326.0,34066.0,34392.0,326.0
+Accelo,Accelo_81,32C,1,3913.0,561.0,33964.0,34525.0,561.0
+Actros,Actros_89,33B,2,0.0,761.0,33853.0,34614.0,761.0
+Actros,Actros_95,31B,2,0.0,555.0,34066.0,34621.0,555.0
+Atego quinta roda,Atego quinta roda_97,30B,2,0.0,326.0,34396.0,34722.0,326.0
+Atego quinta roda,Atego quinta roda_94,32D,2,0.0,588.0,34197.0,34785.0,588.0
+Accelo,Accelo_81,33A,1,0.0,369.0,34525.0,34894.0,369.0
+Actros,Actros_78,34B,2,1751.0,1623.0,33274.0,34897.0,1623.0
+Atego quinta roda,Atego quinta roda_96,31B,2,229.0,330.0,34621.0,34951.0,330.0
+Atego (ATP),Atego (ATP)_72,38,1,0.0,633.0,34341.0,34974.0,633.0
+Atego,Atego_76,34A,1,1325.0,646.0,34341.0,34987.0,646.0
+Accelo,Accelo_83,32C,1,4120.0,561.0,34525.0,35086.0,561.0
+Atego quinta roda,Atego quinta roda_94,33B,2,0.0,376.0,34785.0,35161.0,376.0
+Actros,Actros_78,39,2,0.0,354.0,34897.0,35251.0,354.0
+Atego quinta roda,Atego quinta roda_97,31B,2,229.0,330.0,34951.0,35281.0,330.0
+Atego (ATP),Atego (ATP)_99,30A,1,0.0,326.0,35056.0,35382.0,326.0
+Accelo,Accelo_83,33A,1,0.0,369.0,35086.0,35455.0,369.0
+Arocs,Arocs_98,30B,2,0.0,752.0,34726.0,35478.0,752.0
+Actros,Actros_95,32B,2,0.0,965.0,34621.0,35586.0,965.0
+Atego,Atego_76,38,1,0.0,633.0,34987.0,35620.0,633.0
+Atego,Atego_84,32C,1,4267.0,544.0,35086.0,35630.0,544.0
+Accelo,Accelo_100,30A,1,0.0,253.0,35386.0,35639.0,253.0
+Accelo,Accelo_79,34A,1,1469.0,671.0,34987.0,35658.0,671.0
+Atego (ATP),Atego (ATP)_99,31A,1,0.0,330.0,35382.0,35712.0,330.0
+Actros,Actros_95,32D,2,0.0,247.0,35586.0,35833.0,247.0
+Accelo,Accelo_100,31A,1,73.0,316.0,35712.0,36028.0,316.0
+Arocs,Arocs_98,31B,2,0.0,555.0,35478.0,36033.0,555.0
+Atego quinta roda,Atego quinta roda_101,30B,2,0.0,326.0,35716.0,36042.0,326.0
+Atego,Atego_84,33A,1,0.0,428.0,35630.0,36058.0,428.0
+Atego quinta roda,Atego quinta roda_96,32B,2,635.0,557.0,35586.0,36143.0,557.0
+Accelo,Accelo_79,38,1,0.0,633.0,35658.0,36291.0,633.0
+Atego (ATP),Atego (ATP)_80,34A,1,1318.0,650.0,35658.0,36308.0,650.0
+Atego quinta roda,Atego quinta roda_101,31B,2,0.0,330.0,36042.0,36372.0,330.0
+Atego (ATP),Atego (ATP)_99,32A,1,0.0,677.0,35712.0,36389.0,677.0
+Atego (ATP),Atego (ATP)_85,32C,1,4134.0,815.0,35630.0,36445.0,815.0
+Actros,Actros_82,34B,2,2409.0,1623.0,34897.0,36520.0,1623.0
+Actros,Actros_95,33B,2,0.0,761.0,35833.0,36594.0,761.0
+Accelo,Accelo_103,30A,1,0.0,253.0,36376.0,36629.0,253.0
+Atego quinta roda,Atego quinta roda_97,32B,2,862.0,557.0,36143.0,36700.0,557.0
+Atego quinta roda,Atego quinta roda_96,32D,2,0.0,588.0,36143.0,36731.0,588.0
+Accelo,Accelo_100,32A,1,361.0,354.0,36389.0,36743.0,354.0
+Actros,Actros_102,30B,2,0.0,752.0,36046.0,36798.0,752.0
+Atego (ATP),Atego (ATP)_85,33A,1,0.0,376.0,36445.0,36821.0,376.0
+Actros,Actros_82,39,2,0.0,354.0,36520.0,36874.0,354.0
+Atego quinta roda,Atego quinta roda_88,34B,2,3339.0,395.0,36520.0,36915.0,395.0
+Atego (ATP),Atego (ATP)_80,38,1,0.0,633.0,36308.0,36941.0,633.0
+Accelo,Accelo_103,31A,1,0.0,316.0,36629.0,36945.0,316.0
+Accelo,Accelo_81,34A,1,1414.0,671.0,36308.0,36979.0,671.0
+Accelo,Accelo_86,32C,1,4595.0,561.0,36445.0,37006.0,561.0
+Atego quinta roda,Atego quinta roda_88,39,2,0.0,120.0,36915.0,37035.0,120.0
+Atego quinta roda,Atego quinta roda_96,33B,2,0.0,376.0,36731.0,37107.0,376.0
+Atego quinta roda,Atego quinta roda_104,30B,2,0.0,326.0,36798.0,37124.0,326.0
+Accelo,Accelo_103,32A,1,0.0,354.0,36945.0,37299.0,354.0
+Atego quinta roda,Atego quinta roda_97,32D,2,31.0,588.0,36731.0,37319.0,588.0
+Actros,Actros_102,31B,2,0.0,555.0,36798.0,37353.0,555.0
+Accelo,Accelo_86,33A,1,0.0,369.0,37006.0,37375.0,369.0
+Accelo,Accelo_87,32C,1,4802.0,561.0,37006.0,37567.0,561.0
+Accelo,Accelo_81,38,1,0.0,633.0,36979.0,37612.0,633.0
+Accelo,Accelo_83,34A,1,1524.0,671.0,36979.0,37650.0,671.0
+Arocs,Arocs_98,32B,2,667.0,965.0,36700.0,37665.0,965.0
+Atego quinta roda,Atego quinta roda_104,31B,2,229.0,330.0,37353.0,37683.0,330.0
+Atego quinta roda,Atego quinta roda_97,33B,2,0.0,376.0,37319.0,37695.0,376.0
+Accelo,Accelo_106,30A,1,0.0,253.0,37458.0,37711.0,253.0
+Actros,Actros_105,30B,2,0.0,752.0,37128.0,37880.0,752.0
+Arocs,Arocs_98,32D,2,0.0,247.0,37665.0,37912.0,247.0
+Accelo,Accelo_87,33A,1,0.0,369.0,37567.0,37936.0,369.0
+Accelo,Accelo_106,31A,1,0.0,316.0,37711.0,38027.0,316.0
+Atego,Atego_107,30A,1,0.0,314.0,37788.0,38102.0,314.0
+Accelo,Accelo_90,32C,1,4980.0,561.0,37567.0,38128.0,561.0
+Atego quinta roda,Atego quinta roda_101,32B,2,1293.0,557.0,37665.0,38222.0,557.0
+Accelo,Accelo_83,38,1,0.0,633.0,37650.0,38283.0,633.0
+Atego,Atego_84,34A,1,1592.0,646.0,37650.0,38296.0,646.0
+Accelo,Accelo_106,32A,1,0.0,354.0,38027.0,38381.0,354.0
+Atego,Atego_107,31A,1,0.0,314.0,38102.0,38416.0,314.0
+Actros,Actros_105,31B,2,0.0,555.0,37880.0,38435.0,555.0
+Atego (ATP),Atego (ATP)_108,30A,1,0.0,326.0,38118.0,38444.0,326.0
+Accelo,Accelo_90,33A,1,0.0,369.0,38128.0,38497.0,369.0
+Actros,Actros_89,34B,2,2301.0,1623.0,36915.0,38538.0,1623.0
+Arocs,Arocs_98,33B,2,0.0,698.0,37912.0,38610.0,698.0
+Atego,Atego_91,32C,1,5092.0,544.0,38128.0,38672.0,544.0
+Accelo,Accelo_109,30A,1,0.0,253.0,38448.0,38701.0,253.0
+Atego (ATP),Atego (ATP)_108,31A,1,0.0,330.0,38444.0,38774.0,330.0
+Atego quinta roda,Atego quinta roda_101,32D,2,0.0,588.0,38222.0,38810.0,588.0
+Atego,Atego_107,32A,1,0.0,414.0,38416.0,38830.0,414.0
+Actros,Actros_89,39,2,0.0,354.0,38538.0,38892.0,354.0
+Atego,Atego_84,38,1,0.0,633.0,38296.0,38929.0,633.0
+Atego quinta roda,Atego quinta roda_94,34B,2,3377.0,395.0,38538.0,38933.0,395.0
+Atego (ATP),Atego (ATP)_85,34A,1,1475.0,650.0,38296.0,38946.0,650.0
+Atego quinta roda,Atego quinta roda_94,39,2,0.0,120.0,38933.0,39053.0,120.0
+Accelo,Accelo_109,31A,1,73.0,316.0,38774.0,39090.0,316.0
+Atego,Atego_91,33A,1,0.0,428.0,38672.0,39100.0,428.0
+Atego quinta roda,Atego quinta roda_110,30B,2,0.0,326.0,38778.0,39104.0,326.0
+Atego quinta roda,Atego quinta roda_101,33B,2,0.0,376.0,38810.0,39186.0,376.0
+Actros,Actros_102,32B,2,869.0,965.0,38222.0,39187.0,965.0
+Atego quinta roda,Atego quinta roda_110,31B,2,0.0,330.0,39104.0,39434.0,330.0
+Actros,Actros_102,32D,2,0.0,247.0,39187.0,39434.0,247.0
+Atego (ATP),Atego (ATP)_92,32C,1,4959.0,815.0,38672.0,39487.0,815.0
+Atego (ATP),Atego (ATP)_108,32A,1,56.0,677.0,38830.0,39507.0,677.0
+Atego (ATP),Atego (ATP)_85,38,1,0.0,633.0,38946.0,39579.0,633.0
+Accelo,Accelo_86,34A,1,1571.0,671.0,38946.0,39617.0,671.0
+Atego quinta roda,Atego quinta roda_104,32B,2,1504.0,557.0,39187.0,39744.0,557.0
+Atego,Atego_112,30A,1,0.0,314.0,39438.0,39752.0,314.0
+Actros,Actros_111,30B,2,0.0,752.0,39108.0,39860.0,752.0
+Accelo,Accelo_109,32A,1,417.0,354.0,39507.0,39861.0,354.0
+Atego (ATP),Atego (ATP)_92,33A,1,0.0,376.0,39487.0,39863.0,376.0
+Atego,Atego_93,32C,1,5360.0,544.0,39487.0,40031.0,544.0
+Atego,Atego_112,31A,1,0.0,314.0,39752.0,40066.0,314.0
+Atego quinta roda,Atego quinta roda_113,30B,2,0.0,326.0,39860.0,40186.0,326.0
+Actros,Actros_102,33B,2,0.0,761.0,39434.0,40195.0,761.0
+Accelo,Accelo_86,38,1,0.0,633.0,39617.0,40250.0,633.0
+Accelo,Accelo_87,34A,1,1681.0,671.0,39617.0,40288.0,671.0
+Atego quinta roda,Atego quinta roda_104,32D,2,0.0,588.0,39744.0,40332.0,588.0
+Actros,Actros_111,31B,2,0.0,555.0,39860.0,40415.0,555.0
+Atego,Atego_93,33A,1,0.0,428.0,40031.0,40459.0,428.0
+Atego,Atego_112,32A,1,0.0,414.0,40066.0,40480.0,414.0
+Atego (ATP),Atego (ATP)_114,30A,1,0.0,326.0,40190.0,40516.0,326.0
+Actros,Actros_95,34B,2,2339.0,1623.0,38933.0,40556.0,1623.0
+Atego quinta roda,Atego quinta roda_104,33B,2,0.0,376.0,40332.0,40708.0,376.0
+Actros,Actros_105,32B,2,1309.0,965.0,39744.0,40709.0,965.0
+Atego quinta roda,Atego quinta roda_113,31B,2,229.0,330.0,40415.0,40745.0,330.0
+Accelo,Accelo_115,30A,1,0.0,253.0,40520.0,40773.0,253.0
+Atego (ATP),Atego (ATP)_99,32C,1,3642.0,815.0,40031.0,40846.0,815.0
+Atego (ATP),Atego (ATP)_114,31A,1,0.0,330.0,40516.0,40846.0,330.0
+Actros,Actros_95,39,2,0.0,354.0,40556.0,40910.0,354.0
+Accelo,Accelo_87,38,1,0.0,633.0,40288.0,40921.0,633.0
+Atego quinta roda,Atego quinta roda_96,34B,2,3449.0,395.0,40556.0,40951.0,395.0
+Actros,Actros_105,32D,2,0.0,247.0,40709.0,40956.0,247.0
+Accelo,Accelo_90,34A,1,1791.0,671.0,40288.0,40959.0,671.0
+Atego quinta roda,Atego quinta roda_96,39,2,0.0,120.0,40951.0,41071.0,120.0
+Accelo,Accelo_115,31A,1,73.0,316.0,40846.0,41162.0,316.0
+Atego,Atego_116,30A,1,0.0,314.0,40850.0,41164.0,314.0
+Atego (ATP),Atego (ATP)_99,33A,1,0.0,376.0,40846.0,41222.0,376.0
+Atego quinta roda,Atego quinta roda_110,32B,2,1275.0,557.0,40709.0,41266.0,557.0
+Atego quinta roda,Atego quinta roda_97,34B,2,3256.0,395.0,40951.0,41346.0,395.0
+Accelo,Accelo_100,32C,1,4103.0,561.0,40846.0,41407.0,561.0
+Atego quinta roda,Atego quinta roda_97,39,2,0.0,120.0,41346.0,41466.0,120.0
+Atego,Atego_116,31A,1,0.0,314.0,41164.0,41478.0,314.0
+Atego (ATP),Atego (ATP)_114,32A,1,0.0,677.0,40846.0,41523.0,677.0
+Accelo,Accelo_90,38,1,0.0,633.0,40959.0,41592.0,633.0
+Atego,Atego_91,34A,1,1859.0,646.0,40959.0,41605.0,646.0
+Actros,Actros_105,33B,2,0.0,761.0,40956.0,41717.0,761.0
+Accelo,Accelo_100,33A,1,0.0,369.0,41407.0,41776.0,369.0
+Atego quinta roda,Atego quinta roda_110,32D,2,0.0,588.0,41266.0,41854.0,588.0
+Accelo,Accelo_115,32A,1,361.0,354.0,41523.0,41877.0,354.0
+Actros,Actros_117,30B,2,0.0,752.0,41180.0,41932.0,752.0
+Accelo,Accelo_103,32C,1,4108.0,561.0,41407.0,41968.0,561.0
+Atego quinta roda,Atego quinta roda_110,33B,2,0.0,376.0,41854.0,42230.0,376.0
+Actros,Actros_111,32B,2,851.0,965.0,41266.0,42231.0,965.0
+Atego,Atego_91,38,1,0.0,633.0,41605.0,42238.0,633.0
+Atego (ATP),Atego (ATP)_92,34A,1,1742.0,650.0,41605.0,42255.0,650.0
+Atego quinta roda,Atego quinta roda_118,30B,2,0.0,326.0,41932.0,42258.0,326.0
+Atego,Atego_116,32A,1,399.0,414.0,41877.0,42291.0,414.0
+Accelo,Accelo_103,33A,1,0.0,369.0,41968.0,42337.0,369.0
+Actros,Actros_111,32D,2,0.0,247.0,42231.0,42478.0,247.0
+Actros,Actros_117,31B,2,0.0,555.0,41932.0,42487.0,555.0
+Accelo,Accelo_119,30A,1,0.0,253.0,42262.0,42515.0,253.0
+Accelo,Accelo_106,32C,1,3587.0,561.0,41968.0,42529.0,561.0
+Arocs,Arocs_98,34B,2,2736.0,1440.0,41346.0,42786.0,1440.0
+Atego quinta roda,Atego quinta roda_113,32B,2,1486.0,557.0,42231.0,42788.0,557.0
+Atego quinta roda,Atego quinta roda_118,31B,2,229.0,330.0,42487.0,42817.0,330.0
+Accelo,Accelo_119,31A,1,0.0,316.0,42515.0,42831.0,316.0
+Atego (ATP),Atego (ATP)_92,38,1,0.0,633.0,42255.0,42888.0,633.0
+Accelo,Accelo_106,33A,1,0.0,369.0,42529.0,42898.0,369.0
+Atego,Atego_93,34A,1,1796.0,646.0,42255.0,42901.0,646.0
+Atego (ATP),Atego (ATP)_120,30A,1,0.0,326.0,42592.0,42918.0,326.0
+Atego,Atego_107,32C,1,3699.0,544.0,42529.0,43073.0,544.0
+Arocs,Arocs_98,39,2,0.0,291.0,42786.0,43077.0,291.0
+Atego quinta roda,Atego quinta roda_101,34B,2,3600.0,395.0,42786.0,43181.0,395.0
+Accelo,Accelo_119,32A,1,0.0,354.0,42831.0,43185.0,354.0
+Actros,Actros_111,33B,2,0.0,761.0,42478.0,43239.0,761.0
+Atego (ATP),Atego (ATP)_120,31A,1,0.0,330.0,42918.0,43248.0,330.0
+Atego quinta roda,Atego quinta roda_121,30B,2,0.0,326.0,42922.0,43248.0,326.0
+Atego quinta roda,Atego quinta roda_101,39,2,0.0,120.0,43181.0,43301.0,120.0
+Atego quinta roda,Atego quinta roda_113,32D,2,0.0,588.0,42788.0,43376.0,588.0
+Atego,Atego_107,33A,1,0.0,428.0,43073.0,43501.0,428.0
+Atego,Atego_93,38,1,0.0,633.0,42901.0,43534.0,633.0
+Atego (ATP),Atego (ATP)_99,34A,1,1679.0,650.0,42901.0,43551.0,650.0
+Atego,Atego_122,30A,1,0.0,314.0,43252.0,43566.0,314.0
+Atego quinta roda,Atego quinta roda_121,31B,2,0.0,330.0,43248.0,43578.0,330.0
+Atego quinta roda,Atego quinta roda_113,33B,2,0.0,376.0,43376.0,43752.0,376.0
+Actros,Actros_117,32B,2,301.0,965.0,42788.0,43753.0,965.0
+Atego,Atego_122,31A,1,0.0,314.0,43566.0,43880.0,314.0
+Atego (ATP),Atego (ATP)_108,32C,1,3566.0,815.0,43073.0,43888.0,815.0
+Atego (ATP),Atego (ATP)_120,32A,1,0.0,677.0,43248.0,43925.0,677.0
+Actros,Actros_117,32D,2,0.0,247.0,43753.0,44000.0,247.0
+Accelo,Accelo_124,30A,1,0.0,253.0,43912.0,44165.0,253.0
+Atego (ATP),Atego (ATP)_99,38,1,0.0,633.0,43551.0,44184.0,633.0
+Accelo,Accelo_100,34A,1,1775.0,671.0,43551.0,44222.0,671.0
+Atego (ATP),Atego (ATP)_108,33A,1,0.0,376.0,43888.0,44264.0,376.0
+Atego quinta roda,Atego quinta roda_118,32B,2,936.0,557.0,43753.0,44310.0,557.0
+Actros,Actros_123,30B,2,0.0,752.0,43582.0,44334.0,752.0
+Atego,Atego_122,32A,1,45.0,414.0,43925.0,44339.0,414.0
+Accelo,Accelo_109,32C,1,4027.0,561.0,43888.0,44449.0,561.0
+Accelo,Accelo_124,31A,1,0.0,316.0,44165.0,44481.0,316.0
+Accelo,Accelo_125,30A,1,0.0,253.0,44242.0,44495.0,253.0
+Actros,Actros_117,33B,2,0.0,761.0,44000.0,44761.0,761.0
+Actros,Actros_102,34B,2,2986.0,1623.0,43181.0,44804.0,1623.0
+Accelo,Accelo_125,31A,1,0.0,316.0,44495.0,44811.0,316.0
+Accelo,Accelo_109,33A,1,0.0,369.0,44449.0,44818.0,369.0
+Accelo,Accelo_124,32A,1,0.0,354.0,44481.0,44835.0,354.0
+Accelo,Accelo_100,38,1,0.0,633.0,44222.0,44855.0,633.0
+Atego quinta roda,Atego quinta roda_121,32B,2,732.0,557.0,44310.0,44867.0,557.0
+Actros,Actros_123,31B,2,0.0,555.0,44334.0,44889.0,555.0
+Accelo,Accelo_103,34A,1,1885.0,671.0,44222.0,44893.0,671.0
+Atego quinta roda,Atego quinta roda_118,32D,2,0.0,588.0,44310.0,44898.0,588.0
+Atego,Atego_112,32C,1,3969.0,544.0,44449.0,44993.0,544.0
+Actros,Actros_102,39,2,0.0,354.0,44804.0,45158.0,354.0
+Accelo,Accelo_125,32A,1,24.0,354.0,44835.0,45189.0,354.0
+Atego quinta roda,Atego quinta roda_104,34B,2,4096.0,395.0,44804.0,45199.0,395.0
+Atego,Atego_127,30A,1,0.0,314.0,44902.0,45216.0,314.0
+Atego quinta roda,Atego quinta roda_118,33B,2,0.0,376.0,44898.0,45274.0,376.0
+Atego quinta roda,Atego quinta roda_104,39,2,0.0,120.0,45199.0,45319.0,120.0
+Actros,Actros_126,30B,2,0.0,752.0,44572.0,45324.0,752.0
+Atego,Atego_112,33A,1,0.0,428.0,44993.0,45421.0,428.0
+Atego quinta roda,Atego quinta roda_121,32D,2,31.0,588.0,44898.0,45486.0,588.0
+Accelo,Accelo_103,38,1,0.0,633.0,44893.0,45526.0,633.0
+Atego,Atego_127,31A,1,0.0,314.0,45216.0,45530.0,314.0
+Accelo,Accelo_106,34A,1,1995.0,671.0,44893.0,45564.0,671.0
+Atego quinta roda,Atego quinta roda_128,30B,2,0.0,326.0,45324.0,45650.0,326.0
+Atego (ATP),Atego (ATP)_114,32C,1,3470.0,815.0,44993.0,45808.0,815.0
+Actros,Actros_123,32B,2,0.0,965.0,44889.0,45854.0,965.0
+Atego quinta roda,Atego quinta roda_121,33B,2,0.0,376.0,45486.0,45862.0,376.0
+Actros,Actros_126,31B,2,0.0,555.0,45324.0,45879.0,555.0
+Atego,Atego_127,32A,1,0.0,414.0,45530.0,45944.0,414.0
+Atego (ATP),Atego (ATP)_129,30A,1,0.0,326.0,45654.0,45980.0,326.0
+Actros,Actros_123,32D,2,0.0,247.0,45854.0,46101.0,247.0
+Atego (ATP),Atego (ATP)_114,33A,1,0.0,376.0,45808.0,46184.0,376.0
+Accelo,Accelo_106,38,1,0.0,633.0,45564.0,46197.0,633.0
+Atego quinta roda,Atego quinta roda_128,31B,2,229.0,330.0,45879.0,46209.0,330.0
+Atego,Atego_107,34A,1,2063.0,646.0,45564.0,46210.0,646.0
+Atego (ATP),Atego (ATP)_129,31A,1,0.0,330.0,45980.0,46310.0,330.0
+Atego quinta roda,Atego quinta roda_130,30B,2,0.0,326.0,45984.0,46310.0,326.0
+Accelo,Accelo_115,32C,1,3931.0,561.0,45808.0,46369.0,561.0
+Accelo,Accelo_131,30A,1,0.0,253.0,46314.0,46567.0,253.0
+Atego quinta roda,Atego quinta roda_130,31B,2,0.0,330.0,46310.0,46640.0,330.0
+Accelo,Accelo_115,33A,1,0.0,369.0,46369.0,46738.0,369.0
+Actros,Actros_105,34B,2,3482.0,1623.0,45199.0,46822.0,1623.0
+Atego,Atego_107,38,1,0.0,633.0,46210.0,46843.0,633.0
+Actros,Actros_126,32B,2,0.0,965.0,45879.0,46844.0,965.0
+Atego (ATP),Atego (ATP)_108,34A,1,1946.0,650.0,46210.0,46860.0,650.0
+Actros,Actros_123,33B,2,0.0,761.0,46101.0,46862.0,761.0
+Accelo,Accelo_131,31A,1,0.0,316.0,46567.0,46883.0,316.0
+Atego,Atego_116,32C,1,4078.0,544.0,46369.0,46913.0,544.0
+Atego (ATP),Atego (ATP)_129,32A,1,0.0,677.0,46310.0,46987.0,677.0
+Actros,Actros_126,32D,2,0.0,247.0,46844.0,47091.0,247.0
+Actros,Actros_105,39,2,0.0,354.0,46822.0,47176.0,354.0
+Atego quinta roda,Atego quinta roda_110,34B,2,4592.0,395.0,46822.0,47217.0,395.0
+Atego,Atego_133,30A,1,0.0,314.0,46974.0,47288.0,314.0
+Atego quinta roda,Atego quinta roda_110,39,2,0.0,120.0,47217.0,47337.0,120.0
+Atego,Atego_116,33A,1,0.0,428.0,46913.0,47341.0,428.0
+Accelo,Accelo_131,32A,1,104.0,354.0,46987.0,47341.0,354.0
+Actros,Actros_132,30B,2,0.0,752.0,46644.0,47396.0,752.0
+Atego quinta roda,Atego quinta roda_128,32B,2,635.0,557.0,46844.0,47401.0,557.0
+Accelo,Accelo_119,32C,1,3728.0,561.0,46913.0,47474.0,561.0
+Atego (ATP),Atego (ATP)_108,38,1,0.0,633.0,46860.0,47493.0,633.0
+Accelo,Accelo_109,34A,1,2042.0,671.0,46860.0,47531.0,671.0
+Atego,Atego_133,31A,1,0.0,314.0,47288.0,47602.0,314.0
+Atego quinta roda,Atego quinta roda_134,30B,2,0.0,326.0,47396.0,47722.0,326.0
+Accelo,Accelo_119,33A,1,0.0,369.0,47474.0,47843.0,369.0
+Actros,Actros_126,33B,2,0.0,761.0,47091.0,47852.0,761.0
+Actros,Actros_132,31B,2,0.0,555.0,47396.0,47951.0,555.0
+Atego quinta roda,Atego quinta roda_130,32B,2,761.0,557.0,47401.0,47958.0,557.0
+Atego quinta roda,Atego quinta roda_128,32D,2,0.0,588.0,47401.0,47989.0,588.0
+Atego,Atego_133,32A,1,0.0,414.0,47602.0,48016.0,414.0
+Atego (ATP),Atego (ATP)_135,30A,1,0.0,326.0,47726.0,48052.0,326.0
+Accelo,Accelo_109,38,1,0.0,633.0,47531.0,48164.0,633.0
+Atego,Atego_112,34A,1,2110.0,646.0,47531.0,48177.0,646.0
+Atego quinta roda,Atego quinta roda_134,31B,2,229.0,330.0,47951.0,48281.0,330.0
+Atego (ATP),Atego (ATP)_120,32C,1,3549.0,815.0,47474.0,48289.0,815.0
+Accelo,Accelo_136,30A,1,0.0,253.0,48056.0,48309.0,253.0
+Atego quinta roda,Atego quinta roda_128,33B,2,0.0,376.0,47989.0,48365.0,376.0
+Atego (ATP),Atego (ATP)_135,31A,1,0.0,330.0,48052.0,48382.0,330.0
+Atego quinta roda,Atego quinta roda_130,32D,2,31.0,588.0,47989.0,48577.0,588.0
+Accelo,Accelo_137,30A,1,0.0,253.0,48386.0,48639.0,253.0
+Atego (ATP),Atego (ATP)_120,33A,1,0.0,376.0,48289.0,48665.0,376.0
+Accelo,Accelo_136,31A,1,73.0,316.0,48382.0,48698.0,316.0
+Atego,Atego_112,38,1,0.0,633.0,48177.0,48810.0,633.0
+Atego (ATP),Atego (ATP)_114,34A,1,1993.0,650.0,48177.0,48827.0,650.0
+Atego,Atego_122,32C,1,3950.0,544.0,48289.0,48833.0,544.0
+Actros,Actros_111,34B,2,3978.0,1623.0,47217.0,48840.0,1623.0
+Actros,Actros_132,32B,2,7.0,965.0,47958.0,48923.0,965.0
+Atego quinta roda,Atego quinta roda_130,33B,2,0.0,376.0,48577.0,48953.0,376.0
+Accelo,Accelo_137,31A,1,59.0,316.0,48698.0,49014.0,316.0
+Atego (ATP),Atego (ATP)_135,32A,1,0.0,677.0,48382.0,49059.0,677.0
+Actros,Actros_132,32D,2,0.0,247.0,48923.0,49170.0,247.0
+Actros,Actros_111,39,2,0.0,354.0,48840.0,49194.0,354.0
+Atego quinta roda,Atego quinta roda_113,34B,2,5088.0,395.0,48840.0,49235.0,395.0
+Atego,Atego_122,33A,1,0.0,428.0,48833.0,49261.0,428.0
+Accelo,Accelo_139,30A,1,0.0,253.0,49046.0,49299.0,253.0
+Atego quinta roda,Atego quinta roda_113,39,2,0.0,120.0,49235.0,49355.0,120.0
+Accelo,Accelo_124,32C,1,3998.0,561.0,48833.0,49394.0,561.0
+Accelo,Accelo_136,32A,1,361.0,354.0,49059.0,49413.0,354.0
+Atego (ATP),Atego (ATP)_114,38,1,0.0,633.0,48827.0,49460.0,633.0
+Actros,Actros_138,30B,2,0.0,752.0,48716.0,49468.0,752.0
+Atego quinta roda,Atego quinta roda_134,32B,2,642.0,557.0,48923.0,49480.0,557.0
+Accelo,Accelo_115,34A,1,2089.0,671.0,48827.0,49498.0,671.0
+Accelo,Accelo_139,31A,1,0.0,316.0,49299.0,49615.0,316.0
+Atego (ATP),Atego (ATP)_140,30A,1,0.0,326.0,49376.0,49702.0,326.0
+Accelo,Accelo_124,33A,1,0.0,369.0,49394.0,49763.0,369.0
+Accelo,Accelo_137,32A,1,399.0,354.0,49413.0,49767.0,354.0
+Actros,Actros_132,33B,2,0.0,761.0,49170.0,49931.0,761.0
+Accelo,Accelo_125,32C,1,4205.0,561.0,49394.0,49955.0,561.0
+Atego,Atego_141,30A,1,0.0,314.0,49706.0,50020.0,314.0
+Actros,Actros_138,31B,2,0.0,555.0,49468.0,50023.0,555.0
+Atego (ATP),Atego (ATP)_140,31A,1,0.0,330.0,49702.0,50032.0,330.0
+Atego quinta roda,Atego quinta roda_134,32D,2,0.0,588.0,49480.0,50068.0,588.0
+Accelo,Accelo_139,32A,1,152.0,354.0,49767.0,50121.0,354.0
+Accelo,Accelo_115,38,1,0.0,633.0,49498.0,50131.0,633.0
+Atego,Atego_116,34A,1,2157.0,646.0,49498.0,50144.0,646.0
+Accelo,Accelo_142,30A,1,0.0,253.0,50036.0,50289.0,253.0
+Accelo,Accelo_125,33A,1,0.0,369.0,49955.0,50324.0,369.0
+Atego,Atego_141,31A,1,12.0,314.0,50032.0,50346.0,314.0
